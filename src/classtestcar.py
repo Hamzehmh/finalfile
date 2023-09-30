@@ -1,4 +1,4 @@
-from finalfile.src.classtest import car
+from classtest import car
 
 car_1 = car("pride", "131", 2023, "blue")
 car_2 = car("benz", "c200", 2022, "RED")
@@ -16,4 +16,3 @@ print(car_2.make,car_2.model, car_2.color, car_2.year)
 car_2.drive()
 car_1.stop()
 
-#eryy
