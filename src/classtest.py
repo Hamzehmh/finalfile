@@ -28,7 +28,7 @@ class Motor:
    
 
    def max(self):
-       print("max speed this moter " +self.brand + " is max ")
+       print("max speed this moter " +self.brand + " is max "+self.color)
 
    def cc(self):
         print("max CC this moter "+self.brand + " is very CCCC ")

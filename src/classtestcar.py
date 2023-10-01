@@ -4,7 +4,7 @@ from classtest import Motor
 car_1 = car("pride", "131", 2023, "blue")
 car_2 = car("benz", "c200", 2022, "RED")
 
-#print(car_1.model)
+#&print(car_1.model)
 #print(car_1.year)
 #print(car_1.color)
 #print(car_1.make)
