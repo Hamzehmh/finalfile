@@ -15,3 +15,5 @@ animal_2 = Pestandaran("asb", 125, 250, 140)
 print(animal_2.esm, animal_2.vazn, animal_2.tol, animal_2.arz)
 
 animal_2.action()
+
+#home- 12/07/1402
