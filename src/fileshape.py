@@ -2,5 +2,7 @@ from classshape import Person
 
 
 person1 = Person("ALi", "Rahmati", 42)
-print(person1)
+#print(person1.l_name)
+
+person1.info()
 
