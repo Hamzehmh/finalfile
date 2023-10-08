@@ -13,4 +13,8 @@ class Student(Person):
     
     def info(self):
         print("my text is:" +self.f_name)
-        
+#=====================================================================
+class Teacher(Person):
+    
+    def info(self):
+        print("my Teacher is:" +self.f_name)        
