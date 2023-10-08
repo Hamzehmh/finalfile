@@ -1,16 +1,8 @@
-class Shape:
-   def __init__(self, color = "GRAY"):
-      self.color = color
+class Person:
+    def __init__(self, fname, lname, age):
+        self.fname = fname
+        self.fname = lname
+        self.age = age
 
-
-
-class Circle(Shape):
-    def __init__(self, r, color = "RED") :
-        self.color = color
-        self.r = r
-
-    def area(self,):
-      return 3.14 * self.r * self.r   
-
-    def mohit(self,):
-      return 3.14 * self.r *2 
+    def info(self):
+        print("My info is : ")

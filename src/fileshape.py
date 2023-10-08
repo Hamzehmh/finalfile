@@ -1,8 +1,6 @@
-from classshape import Circle
+from classshape import Person
 
 
-c = Circle(3536)
+person1 = Person("ALi", "Rahmati", 42)
+print(person1)
 
-print(c.area())
-print(c.mohit())
-print(c.color)
