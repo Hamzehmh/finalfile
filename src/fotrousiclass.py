@@ -24,6 +24,7 @@ class Karmand(Person):
 
      def taskk(self):
           print("my task in fotrousi company is :"+self.task)
+          #==
 
 
      
