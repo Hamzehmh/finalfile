@@ -16,6 +16,15 @@ class Manager(Person):
 
      def sematt(self):
        print("my semat in fotrousi company is :"+self.semat)
+#--------------------------------------------------------
+class Karmand(Person):
+     def __init__(self, f_name, l_nsme, age, ID, task):
+        super().__init__(f_name, l_nsme, age, ID)
+        self.task = task
+
+     def taskk(self):
+          print("my task in fotrousi company is :"+self.task)
+
 
      
         
