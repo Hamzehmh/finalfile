@@ -1,8 +1,8 @@
 class Person:
-    def __init__(self, f_name, l_nsme, age, ID):
+    def __init__(self, f_name, l_name, age, ID):
 
         self.f_name = f_name
-        self.l_name = l_nsme
+        self.l_name = l_name
         self.age = age
         self.ID = ID
 
@@ -18,8 +18,8 @@ class Manager(Person):
        print("my semat in fotrousi company is :"+self.semat)
 #--------------------------------------------------------
 class Karmand(Person):
-     def __init__(self, f_name, l_nsme, age, ID, task):
-        super().__init__(f_name, l_nsme, age, ID)
+     def __init__(self, f_name, l_name, age, ID, task):
+        super().__init__(f_name, l_name, age, ID)
         self.task = task
 
      def taskk(self):
