@@ -18,3 +18,4 @@ print(per3.f_name, per3.l_name, per3.ID, per3.age)
 per3.info()
 per3.taskk()
 ###va ali dare pish mire in python programing
+#and this is my life
