@@ -17,4 +17,3 @@ per3 = Karmand("\nhasan", "kashani", 3923, 543,"khadamat")
 print(per3.f_name, per3.l_name, per3.ID, per3.age)
 per3.info()
 per3.taskk()
-###va ali dare pish mire in python programing
