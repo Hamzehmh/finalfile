@@ -13,8 +13,14 @@ print(per2.f_name, per2.l_name, per2.ID, per2.age)
 per2.info()
 per2.sematt()
 
-per3 = Karmand("\nhasan", "kashani", 3923, 543,"khadamat")
+per3 = Karmand("\nhasan", "kashani", 3923, 543,"khadamat\n")
 print(per3.f_name, per3.l_name, per3.ID, per3.age)
 per3.info()
 per3.taskk()
 #ajab roozeye
+
+per4 = Karmand("\nhamid", "ahmadi", 44, 1443,"negahban\n")
+print(per4.f_name, per4.l_name, per4.ID, per4.age)
+per4.info()
+per4.taskk()
+#ajab roozeye emroooz va dirooooz

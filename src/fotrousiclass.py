@@ -27,7 +27,7 @@ class Karmand(Person):
         
 #avale sob e shanbe
 #kheyli alli
-
+#ye nafare jadid ezafe kardam be list e karmanda
      
         
 
