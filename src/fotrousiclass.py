@@ -24,6 +24,18 @@ class Karmand(Person):
 
      def taskk(self):
           print("my task in fotrousi company is :"+self.task)
+#--------------------------------------------------------
+class Moshtari(Manager):
+     def __init__(self, f_name, l_name, age, ID, task, kharid):
+        super().__init__(f_name, l_name, age, ID,ta)
+        self.task = task
+        self.kharid = kharid
+
+     def taskk(self):
+          print("my task in fotrousi company is :"+self.task)
+
+     def kharid(self):
+          print("my kharidddd in fotrousi company is :"+self.kharid)                
         
 #avale sob e shanbe
 #kheyli alli

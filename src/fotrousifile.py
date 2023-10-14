@@ -1,6 +1,7 @@
 from fotrousiclass import Person
 from fotrousiclass import Manager
 from fotrousiclass import Karmand
+from fotrousiclass import Moshtari
 
 
 
@@ -24,3 +25,9 @@ print(per4.f_name, per4.l_name, per4.ID, per4.age)
 per4.info()
 per4.taskk()
 #ajab roozeye emroooz va dirooooz
+
+per5 = Moshtari("\nmoataaan", "haghiri", 44, 1443,"negahban"," lebese shab\n")
+print(per5.f_name, per5.l_name, per5.ID, per5.age, per5.task, per5.)
+per5.info()
+per5.taskk()
+per5.kharid()
