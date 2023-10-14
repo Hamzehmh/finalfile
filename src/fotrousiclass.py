@@ -40,7 +40,11 @@ class Moshtari(Manager):
  #dare be jahaye jalebesh mirese...omidvaram betoonam edame bedam   
  # # besyar aaali..makhsoosan az vaghti ke yaser o avordam toye bazi
  # #fenitooooo
- # jaye mohamad zirakk hesabi khaleye                  
+ # jaye mohamad zirakk hesabi khaleye    
+ # 
+
+ # in code serfan jahate save git mibashad va az khane anjam shode ast
+ # va arzeshe digari nadarad              
         
      
         
