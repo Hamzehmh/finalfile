@@ -34,7 +34,13 @@ class Moshtari(Manager):
           print("my task in fotrousi company is :"+self.semat)
 
      def kharid2(self):
-          print("my kharidddd in fotrousi company is :"+self.kharid)                
+          print("my kharidddd in fotrousi company is :"+self.kharid)    
+
+
+ #dare be jahaye jalebesh mirese...omidvaram betoonam edame bedam   
+ # # besyar aaali..makhsoosan az vaghti ke yaser o avordam toye bazi
+ # #fenitooooo
+ # jaye mohamad zirakk hesabi khaleye                  
         
      
         
