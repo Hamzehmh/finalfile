@@ -26,6 +26,7 @@ class Karmand(Person):
           print("my task in fotrousi company is :"+self.task)
         
 #avale sob e shanbe
+#kheyli alli
 
      
         
