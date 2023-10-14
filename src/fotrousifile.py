@@ -24,10 +24,10 @@ per4 = Karmand("\nhamid", "ahmadi", 44, 1443,"negahban\n")
 print(per4.f_name, per4.l_name, per4.ID, per4.age)
 per4.info()
 per4.taskk()
-#ajab roozeye emroooz va dirooooz
 
-per5 = Moshtari("\nmoataaan", "haghiri", 44, 1443,"negahban"," lebese shab\n")
-print(per5.f_name, per5.l_name, per5.ID, per5.age, per5.task, per5.)
+
+per5 = Moshtari("\nmosataaan", "haghiri", 84, 13,"negahban"," lebese shab")
+print(per5.f_name, per5.l_name, per5.ID, per5.age, per5.semat, per5.kharid)
 per5.info()
-per5.taskk()
-per5.kharid()
+per5.semat2()
+per5.kharid2()
