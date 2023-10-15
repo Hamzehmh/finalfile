@@ -38,5 +38,5 @@ per6.info()
 per6.semat2()
 per6.kharid2()
 
- # in code serfan jahate save git mibashad va az khane anjam shode ast
- # va arzeshe digari nadarad    
+ # in yek kode digast v ajadide
+ 
