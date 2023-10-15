@@ -29,4 +29,8 @@ x_1 = Joftshish(tas1 , tas2)
 x_1.jofttshish()
 x_1.zarbjoftshish()
 
+x_2 = Joftshish (8 , 12)
+x_2.jofttshish()
+
+
 
