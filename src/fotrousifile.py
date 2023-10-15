@@ -42,4 +42,7 @@ per6.semat2()
 per6.kharid2()
 
  # in yek kode digast v ajadide
+x= 11
+y =dir(x)
+print(y)
  

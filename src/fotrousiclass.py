@@ -26,7 +26,7 @@ class Karmand(Person):
           print("my task in fotrousi company is :"+self.task)
           #inja kelase ajib o gharibeye
           #cheghad dige bayad hashtag bezanam
-          
+
 #--------------------------------------------------------
 class Moshtari(Manager):
      def __init__(self, f_name, l_name, age, ID, semat, kharid):
@@ -42,6 +42,10 @@ class Moshtari(Manager):
 
   
 # man on ko0de ghabliroo paka kardam ta az ye jaye dige code bezanam        
+
+a = 89
+b = dir(a)
+print(b)
         
      
         
