@@ -27,7 +27,7 @@ class Karmand(Person):
           #inja kelase ajib o gharibeye
           #cheghad dige bayad hashtag bezanam
 
-#----------------------------------------------------------
+#----------------------------------------------------------23232
 class Moshtari(Manager):
      def __init__(self, f_name, l_name, age, ID, semat, kharid):
         super().__init__(f_name, l_name, age, ID,semat)
