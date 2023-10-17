@@ -8,6 +8,7 @@ animal_1 = Animal("Khar", 125, 250, 140)
 print(animal_1.esm, animal_1.vazn, animal_1.tol, animal_1.arz)
 
 animal_1.action()
+#654654654
 
 
 animal_2 = Pestandaran("asb", 125, 250, 140)

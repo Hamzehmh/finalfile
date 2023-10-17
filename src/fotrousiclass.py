@@ -27,6 +27,7 @@ class Karmand(Person):
           print("my task in fotrousi company is :"+self.task)
           #inja kelase ajib o gharibeye
           #cheghad dige bayad hashtag bezanam
+          #kjfgbljb
 
 #----------------------------------------------------------
 class Moshtari(Manager):

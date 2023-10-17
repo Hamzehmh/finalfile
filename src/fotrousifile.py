@@ -20,7 +20,7 @@ per3.info()
 per3.taskk()
 #ajab roozeye
  #cheghad dige bayad hashtag bezanam 9994dfg
- # karet doroste vagean
+ # karet doroste vagean645654654
 
 per4 = Karmand("\nhamid", "ahmadi", 44, 1443,"negahban\n")
 print(per4.f_name, per4.l_name, per4.ID, per4.age)

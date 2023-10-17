@@ -39,16 +39,14 @@ aliii = (1, 2, 2, 3)
 print(aliii)
 
 hassan = {"a":1383 , "b": 20085}
-print(hassan["a"])
+print(hassan["b"])
 
 gholam = ["kamal", "jamal", "mamal"]
 print(gholam)
 
 
 
-
-#996632514859llll
 #with open('test.txt', 'r') as reader:
-    #print(reader.read())
+    # print(reader.read())
 
 
