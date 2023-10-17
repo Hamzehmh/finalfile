@@ -42,7 +42,7 @@ class Moshtari(Manager):
 
 
   
-# man on ko0de ghabliroo paka kardam ta az ye jaye dige code bezanam     4534324  
+# man on ko0de ghabliroo paka kardam ta az ye jaye dige code bezanam     45tfgh34324  
 
 a = 89
 b = dir(a)

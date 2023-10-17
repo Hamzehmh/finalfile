@@ -33,7 +33,7 @@ x_1.zarbjoftshish()
 x_2 = Joftshish (8 , 12)
 x_2.jofttshish()
 
-#996632514859
+#996632514859llll
 with open('test.txt', 'r') as reader:
     print(reader.read())
 
