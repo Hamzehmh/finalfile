@@ -8,6 +8,7 @@ class Person:
 
     def info(self):
         print("my info is :" +self.f_name+" "+self.l_name+ " "+str(self.age)+ " " +str(self.ID))
+        #karet doroste vagean
   #-------------------------------------------------------
 class Manager(Person):
      def __init__(self,f_name,l_name,age,ID, semat):
