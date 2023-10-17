@@ -33,6 +33,5 @@ x_1.zarbjoftshish()
 x_2 = Joftshish (8 , 12)
 x_2.jofttshish()
 
-#9966325148596523
-
+#996632514859
 
