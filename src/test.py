@@ -34,4 +34,7 @@ x_2 = Joftshish (8 , 12)
 x_2.jofttshish()
 
 #996632514859
+with open('test.txt') as textfile:
+    print(textfile)
+
 
