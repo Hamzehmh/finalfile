@@ -8,7 +8,6 @@ class Person:
 
     def info(self):
         print("my info is :" +self.f_name+" "+self.l_name+ " "+str(self.age)+ " " +str(self.ID))
-        #karet doroste vagean
   #-------------------------------------------------------
 class Manager(Person):
      def __init__(self,f_name,l_name,age,ID, semat):
@@ -25,9 +24,6 @@ class Karmand(Person):
 
      def taskk(self):
           print("my task in fotrousi company is :"+self.task)
-          #inja kelase ajib o gharibeye
-          #cheghad dige bayad hashtag bezanam
-          #kjfgbljb
 
 #----------------------------------------------------------
 class Moshtari(Manager):
@@ -41,9 +37,6 @@ class Moshtari(Manager):
      def kharid2(self):
           print("my kharidddd in fotrousi company is :"+self.kharid)    
 
-
-  
-# man on ko0de ghabliroo paka kardam ta az ye jaye dige code bezanam     45tfgh34324  
 
 a = 89
 b = dir(a)

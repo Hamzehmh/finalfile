@@ -9,7 +9,6 @@ print(tas3)
 def test(a , b , c):
     return( a * b *c)
     """ahsant be shoma
-    karet doroste vagean
     """
 
 x = test(tas1 , tas2 , tas3)
@@ -45,8 +44,5 @@ gholam = ["kamal", "jamal", "mamal"]
 print(gholam)
 
 
-
-#with open('test.txt', 'r') as reader:
-    # print(reader.read())
 
 

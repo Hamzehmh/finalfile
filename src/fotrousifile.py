@@ -18,9 +18,7 @@ per3 = Karmand("\nhasan", "kashani", 3923, 543,"khadamat\n")
 print(per3.f_name, per3.l_name, per3.ID, per3.age)
 per3.info()
 per3.taskk()
-#ajab roozeye
- #cheghad dige bayad hashtag bezanam 9994dfg
- # karet doroste vagean645654654
+#
 
 per4 = Karmand("\nhamid", "ahmadi", 44, 1443,"negahban\n")
 print(per4.f_name, per4.l_name, per4.ID, per4.age)
@@ -33,17 +31,11 @@ print(per5.f_name, per5.l_name, per5.ID, per5.age, per5.semat, per5.kharid)
 per5.info()
 per5.semat2()
 per5.kharid2()
-#ye moshtari jadid ezafe kardaammm
-
+#
 
 per6 = Moshtari("\nyaser", "zarjooo", 41, 145,"operatoor"," shorte varzeshi")
 print(per6.f_name, per6.l_name, per6.ID, per6.age, per6.semat, per6.kharid)
 per6.info()
 per6.semat2()
 per6.kharid2()
-
- # in yek kode digast v ajadide
-x= 11
-y =dir(x)
-print(y)
  
