@@ -3,7 +3,7 @@ from fotrousiclass import Manager
 from fotrousiclass import Karmand
 from fotrousiclass import Moshtari
 
-
+#this is a frist commit for today
 
 per1 = Person("\nali", "Niazi", 52, 123)
 print(per1.f_name, per1.l_name, per1.ID, per1.age)
@@ -31,7 +31,7 @@ print(per5.f_name, per5.l_name, per5.ID, per5.age, per5.semat, per5.kharid)
 per5.info()
 per5.semat2()
 per5.kharid2()
-#
+#scsxcf
 
 per6 = Moshtari("\nyaser", "zarjooo", 41, 145,"operatoor"," shorte varzeshi")
 print(per6.f_name, per6.l_name, per6.ID, per6.age, per6.semat, per6.kharid)
