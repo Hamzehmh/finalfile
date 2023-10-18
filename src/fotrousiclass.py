@@ -37,11 +37,9 @@ class Moshtari(Manager):
      def kharid2(self):
           print("my kharidddd in fotrousi company is :"+self.kharid)    
 #this is a frist commit for today
+#fff = open('.\ test.txt', mode = 'r')
+#print(fff)
 
-a = 89
-b = dir(a)
-print(b)
-        
      
         
 
