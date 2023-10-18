@@ -38,4 +38,10 @@ print(per6.f_name, per6.l_name, per6.ID, per6.age, per6.semat, per6.kharid)
 per6.info()
 per6.semat2()
 per6.kharid2()
+
+file = open('./test.txt', mode='r')
+file.read()
+#with open("./test.txt","r") as book:
+    #pass
+#print(book)
  
