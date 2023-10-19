@@ -43,5 +43,5 @@ file = open('./test.txt', mode='r')
 file.read()
 #with open("./test.txt","r") as book:
     #pass
-#print(book)
+#print(book)\sdkhfdd
  

@@ -39,6 +39,8 @@ class Moshtari(Manager):
 #this is a frist commit for today
 #fff = open('.\ test.txt', mode = 'r')
 #print(fff)47532472
+fox = "dox"
+print(fox)
 
      
         
