@@ -43,7 +43,7 @@ print(hassan["b"])
 gholam = ["kamal", "jamal", "mamal"]
 print(gholam)
 
-
-f = open('.//test.txt')
-f.readline()
+hami = {"a":4,"b":3, "c":9, "d":1}
+print(hami)
+           
 
