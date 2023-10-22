@@ -20,7 +20,7 @@ class Joftshish:
         self.tas22 = tas22
 
     def jofttshish(self):
-        print("tashaye man az in gharar ast"+ "-----"+ str(self.tas11)+" AND "+ str(self.tas22))
+        print("tas'haye man az in gharar ast"+ "-----"+ str(self.tas11)+" AND "+ str(self.tas22))
     def zarbjoftshish(self):
         return tas1 * tas2
         
@@ -34,16 +34,18 @@ x_2.jofttshish()
 
 #this is a frist commit for todayfgbhkkjhddhf
 
-aliii = (1, 2, 2, 3)
-print(aliii)
+my_tuple = (1, 2, 2, 3)
+print(my_tuple)
 
-hassan = {"a":1383 , "b": 20085}
-print(hassan["b"])
+my_dic11 = {"a":1383 , "b": 20085}
+print(my_dic11["b"])
 
-gholam = ["kamal", "jamal", "mamal"]
-print(gholam)
+my_list = ["kamal", "jamal", "mamal"]
+print(my_list)
 
-hami = {"a":4,"b":3, "c":9, "d":1}
-print(hami)
-           
+my_dic = {"a":4,"b":3, "c":9, "d":1}
+print("my dic")
+print(my_dic)
 
+with open("./test.txt") as book:
+    print(book.read())
