@@ -8,7 +8,12 @@ print(tas3)
 
 def test(a , b , c):
     return( a * b *c)
-    """ahsant be shoma
+    """_hey_
+
+    Returns
+    -------
+    _hello_
+        _hello from the other side_
     """
 
 x = test(tas1 , tas2 , tas3)
