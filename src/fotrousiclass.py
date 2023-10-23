@@ -1,10 +1,17 @@
 class Person:
     def __init__(self, f_name, l_name, age, ID):
+         """_salam az khone_
 
-        self.f_name = f_name
-        self.l_name = l_name
-        self.age = age
-        self.ID = ID
+         Arguments:
+             f_name -- _frist name      _
+             l_name -- _last name_
+             age -- _years old of person_
+             ID -- _ID number_
+         """
+         self.f_name = f_name
+         self.l_name = l_name
+         self.age = age
+         self.ID = ID
 
     def info(self):
         print("my info is :" +self.f_name+" "+self.l_name+ " "+str(self.age)+ " " +str(self.ID))

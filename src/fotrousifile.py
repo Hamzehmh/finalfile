@@ -31,7 +31,7 @@ print(per5.f_name, per5.l_name, per5.ID, per5.age, per5.semat, per5.kharid)
 per5.info()
 per5.semat2()
 per5.kharid2()
-#scsxcf
+
 
 per6 = Moshtari("\nyaser", "zarjooo", 41, 145,"operatoor"," shorte varzeshi")
 print(per6.f_name, per6.l_name, per6.ID, per6.age, per6.semat, per6.kharid)
@@ -39,9 +39,5 @@ per6.info()
 per6.semat2()
 per6.kharid2()
 
-file = open('./test.txt', mode='r')
-file.read()
-#with open("./test.txt","r") as book:
-    #pass
-#print(book)\sdkhfdd
+
  
