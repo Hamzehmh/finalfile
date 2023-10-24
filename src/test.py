@@ -35,7 +35,7 @@ x_1.zarbjoftshish()
 x_2 = Joftshish (8 , 12)
 x_2.jofttshish()
 
-#this is a frist commit for today9999
+#this is a frist commit for today
 my_tuple = (1, 2, 2, 3)
 print(my_tuple)
 
@@ -49,7 +49,8 @@ my_dic = {"a":4,"b":3, "c":9, "d":1}
 print("my dic")
 print(my_dic)
 
-with open(".src/test.txt") as book:
-    print(book.read())
+print(dict())
+#with open(".src/test.txt") as book:
+ #   print(book.read())
 
 
