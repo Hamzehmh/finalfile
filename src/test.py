@@ -49,7 +49,8 @@ my_dic = {"a":4,"b":3, "c":9, "d":1}
 print("my dic")
 print(my_dic)
 
-with open("./test.txt") as book:
-    print(book.read())
+print(dict())
+#with open(".src/test.txt") as book:
+ #   print(book.read())00
 
 
