@@ -22,7 +22,7 @@ class Manager(Person):
         self.semat = semat
 
      def sematt(self):
-       print("my semat in fotrousi company is :"+self.semat)
+       print("my semat in fotrousi company is  :"+self.semat)
 #---------------------------------------------------------
 class Karmand(Person):
      def __init__(self, f_name, l_name, age, ID, task):
