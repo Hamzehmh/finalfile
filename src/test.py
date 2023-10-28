@@ -1,4 +1,13 @@
 import random
+from faker import Faker
+
+fake = Faker()
+
+fake.name()
+print(fake)
+
+for _ in range(10):
+  print(fake.name())
 
 tas1=random.randint(1,6)
 tas2=random.randint(1,6)
