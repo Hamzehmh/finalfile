@@ -3,12 +3,15 @@ from faker import Faker
 
 fake = Faker()
 
+
 fake.name()
 print(fake)
+
 
 for _ in range(10):
   print(fake.name())
 
+print("------------------------------------------------------------------")
 tas1=random.randint(1,6)
 tas2=random.randint(1,6)
 tas3=random.randint(1,6)
@@ -62,5 +65,6 @@ print(my_dic)
 print(dict())
 #with open(".src/test.txt") as book:
  #   print(book.read())0099
+print("------------------------------------------------------------------")
 
 
