@@ -1,4 +1,8 @@
 import random
+import time
+
+
+
 tas1=random.randint(1,6)
 tas2=random.randint(1,6)
 tas3=random.randint(1,6)
