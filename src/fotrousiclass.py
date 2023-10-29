@@ -27,6 +27,7 @@ class Manager(Person):
 class Karmand(Person):
      def __init__(self, f_name, l_name, age, ID, task):
         super().__init__(f_name, l_name, age, ID)
+        super().info()
         self.task = task
 
      def taskk(self):
