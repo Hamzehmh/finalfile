@@ -21,7 +21,7 @@ print(tas3)
 
 def test(a , b , c):
     return( a * b *c)
-    """hello ooo45255
+    """hello ooo
 
     Returns:
         _hello from the other side_
