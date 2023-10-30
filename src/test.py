@@ -19,7 +19,7 @@ print(tas3)
 
 def test(a , b , c):
     return( a * b *c)
-    """hello ooo
+    """hello
 
     Returns:
         _hello from the other sideeee_

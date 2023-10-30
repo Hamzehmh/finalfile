@@ -1,5 +1,5 @@
 class Person:
-    def __init__(self, f_name, l_name, age, ID):
+    def __init__(self, f_name:str, l_name:str, age:int, ID:int):
          """_salam az khone_
 
          Arguments:
