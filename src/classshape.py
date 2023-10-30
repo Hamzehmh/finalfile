@@ -34,7 +34,7 @@ class Regtangle(Shape):
         
     def mohit(self,):
       return 2*self.tol + 2* self.arz
-    #---------------------------------------------------------------------------------
+    #------------------------------------------------------------------------------------
 class moraba(Regtangle):
    def __init__(self, zel, color="green"):
       super().__init__(tol, arz, color)

@@ -7,15 +7,21 @@ and also hello from here
 ali azimi
 hossein iravani
 raha dadvar
+reza aslaniiii
 
     ostad ali mohammadi
 Ajab rozeye
     raeis ali delvari va pesaran
 
 tehran 021\
-
+aboulfazl hello
 etefaghan aboulfazl injast
 cla
+<<<<<<< HEAD
 lklklkl
+=======
+inam ye chizeye
+>>>>>>> f57545d1ef67534a98323b54af9cffbc98bec7fb
 close my eyes
+trst file man
 <<<<<<

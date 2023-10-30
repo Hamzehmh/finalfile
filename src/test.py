@@ -1,4 +1,15 @@
 import random
+from faker import Faker
+
+fake = Faker()
+fake.name()
+print(fake)
+
+
+for _ in range(10):
+  print(fake.name())
+
+print("-----------------------------------------------------------------------")
 tas1=random.randint(1,6)
 tas2=random.randint(1,6)
 tas3=random.randint(1,6)
@@ -6,12 +17,15 @@ print(tas1)
 print(tas2)
 print(tas3)
 
+
+
+
 def test(a , b , c):
     return( a * b *c)
     """hello 
 
     Returns:
-        _hello from the other side_
+        _hello from the other sideeee_
     """
 
 x = test(tas1 , tas2 , tas3)
@@ -35,7 +49,7 @@ x_1.zarbjoftshish()
 x_2 = Joftshish (8 , 12)
 x_2.jofttshish()
 
-#this is a frist commit for today0
+#this is a frist commit for today0981
 my_tuple = (1, 2, 2, 3)
 print(my_tuple)
 
@@ -51,6 +65,7 @@ print(my_dic)
 
 print(dict())
 #with open(".src/test.txt") as book:
- #   print(book.read())00
+ #   print(book.read())0099
+print("------------------------------------------------------------------")
 
 

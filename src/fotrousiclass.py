@@ -1,11 +1,11 @@
 class Person:
-    def __init__(self, f_name, l_name, age, ID):
+    def __init__(self, f_name:str, l_name:str, age:int, ID:int):
          """_salam az khone_
 
          Arguments:
-             f_name -- _frist name      _
-             l_name -- _last name_
-             age -- _years old of person_
+             f_name -- _frist name _
+             l_name -- _last namee_
+             age -- _years old of persono
              ID -- _ID number_
          """
          self.f_name = f_name
@@ -15,18 +15,19 @@ class Person:
 
     def info(self):
         print("my info is :" +self.f_name+" "+self.l_name+ " "+str(self.age)+ " " +str(self.ID))
-  #-----------------------------------------------------dfgd--
+  #-----------------------------------------------------------------
 class Manager(Person):
      def __init__(self,f_name,l_name,age,ID, semat):
         super().__init__(f_name,l_name,age,ID)
         self.semat = semat
 
      def sematt(self):
-       print("my semat in fotrousi company is  :"+self.semat)
+       print("my semat in fotrousi company is :"+self.semat)
 #---------------------------------------------------------
 class Karmand(Person):
      def __init__(self, f_name, l_name, age, ID, task):
         super().__init__(f_name, l_name, age, ID)
+        super().info()
         self.task = task
 
      def taskk(self):
