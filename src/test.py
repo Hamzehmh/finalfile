@@ -9,7 +9,7 @@ print(fake)
 for _ in range(10):
   print(fake.name())
 
-print("-------------------------------------------------------------------------")
+print("-----------------------------------------------------------------------")
 tas1=random.randint(1,6)
 tas2=random.randint(1,6)
 tas3=random.randint(1,6)

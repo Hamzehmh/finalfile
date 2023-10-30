@@ -4,7 +4,7 @@ class Person:
 
          Arguments:
              f_name -- _frist name _
-             l_name -- _last name_
+             l_name -- _last namee_
              age -- _years old of person_
              ID -- _ID number_
          """
