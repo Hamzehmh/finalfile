@@ -4,6 +4,9 @@ from faker import Faker
 fake = Faker()
 fake.name()
 print(fake)
+ppp = random.choice
+print("ppp-")
+print(ppp)
 
 
 for _ in range(10):
