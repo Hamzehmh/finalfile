@@ -3,7 +3,7 @@ from fotrousiclass import Manager
 from fotrousiclass import Karmand
 from fotrousiclass import Moshtari
 
-#this is a frist commit for todaydg fgdfwf-=-fgdhfghjk,j,k
+#this is a frist commit for todaydg kjhkjhkjk
 
 per1 = Person("\nali", "Niazi", 52, 123)
 print(per1.f_name, per1.l_name, per1.ID, per1.age)
@@ -18,7 +18,7 @@ per2 = Manager("\nAhmad", "Aghasiani", 39, 543,"modir")
 print(per2.f_name, per2.l_name, per2.ID, per2.age)
 per2.info()
 per2.sematt()
-print("-----------------------------------------------------")
+print("--------------------------------------------------")
 
 per3 = Karmand("\nhasan", "kashani", 3923, 543,"khadamat\n")
 print(per3.f_name, per3.l_name, per3.ID, per3.age)

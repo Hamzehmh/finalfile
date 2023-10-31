@@ -5,7 +5,7 @@ class Person:
          Arguments:
              f_name -- _frist name _
              l_name -- _last namee_
-             age -- _years old of person_
+             age -- _years old of persono
              ID -- _ID number_
          """
          self.f_name = f_name
@@ -23,7 +23,7 @@ class Manager(Person):
 
      def sematt(self):
        print("my semat in fotrousi company is :"+self.semat)
-#-------------------------------------------------------------
+#---------------------------------------------------------
 class Karmand(Person):
      def __init__(self, f_name, l_name, age, ID, task):
         super().__init__(f_name, l_name, age, ID)
