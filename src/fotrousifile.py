@@ -1,15 +1,15 @@
-from fotrousiclass import Person
+from fotrousiclass import Person as per
 from fotrousiclass import Manager
 from fotrousiclass import Karmand
 from fotrousiclass import Moshtari
 
 #this is a frist commit for today
 
-per1 = Person("\nali", "Niazi", 52, 123)
+per1 = per("\nali", "Niazi", 52, 123)
 print(per1.f_name, per1.l_name, per1.ID, per1.age)
 per1.info()
 print("-------------------------------------------------")
-per8 = Person("hamiddd", "gholami", 32,24569)
+per8 = per("hamiddd", "gholami", 32,24569)
 print(per8.f_name, per8.l_name, per8.age, per8.ID)
 per8.info()
 print("--------------------------------------------------")
