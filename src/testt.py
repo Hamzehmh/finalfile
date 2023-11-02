@@ -23,4 +23,4 @@ my_dict =  {"a":1 , "b":2, "c":3}
 print("\n my DICT is : " +str( my_dict ))
 print(type(my_dict))
 
-# II so happpy for python learningdfdfgh
+# II so happpy for python learn
