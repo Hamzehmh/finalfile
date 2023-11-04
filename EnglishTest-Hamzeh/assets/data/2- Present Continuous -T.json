@@ -1,0 +1,638 @@
+[
+  {
+    "fa": "من در حال حاضر دارم کار می‌کنم.",
+    "en": "I'm working at the moment",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "من [به‌طور موقت] در مدرسه مشغول به کارم",
+    "en": "I'm working in a school",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "من [این روزها] مشغول مطالعه‌ی کتاب‌ خیلی خوبیم",
+    "en": "I’m reading a really great book",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "فردا پدرم رو ملاقات می‌کنم",
+    "en": "I’m meeting my father tomorrow",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "من ساعت سه از اینجا می‌رم",
+    "en": "I’m leaving at three",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "فعلاً دارم از کامپیوتر قدیمی‌ام استفاده می‌کنم",
+    "en": "I’m using my old computer for the time being",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دارم الان می‌رم مدرسه",
+    "en": "I’m going to school right now",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داری بیش از حد سیگار می‌کشی",
+    "en": "You're smoking too much",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "تو مدام کلیدت رو گم می‌‌کنی",
+    "en": "You’re forever losing your keys",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داری ظرف‌ها رو می‌شوری",
+    "en": "You’re doing the dishes",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "«جولی» خوابه",
+    "en": "Julie is sleeping",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون داره شنا می‌کنه",
+    "en": "She’s swimming",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "«لوسی» همواره لبخند به لبشه",
+    "en": "Lucy’s always smiling",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون دائماً از قطار جا می‌مونه",
+    "en": "She’s constantly missing the train",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "امروز بعدازظهر می‌ره پیش دندون‌پزشکش",
+    "en": "She is visiting her dentist this afternoon",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "«جان» [به‌طور موقت] توی سوپرمارکت مشغول به کاره، تا وقتی که شغل متناسب با رشته‌اش پیدا کنه",
+    "en": "John's working in a supermarket until he finds a job in his field",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون این روزها زیاد می‌خوره",
+    "en": "He’s eating a lot these days",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون همش نظرش رو عوض می‌کنه",
+    "en": "He’s continuously changing his mind",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "پدرم در حال حاضر توی دفترش مشغول کاره",
+    "en": "My father is working in his office at the moment",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "برادرم داره با دوستش حرف می‌زنه",
+    "en": "My brother is talking to his friend",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داره بیرون با سگش بازی می‌کنه",
+    "en": "He is playing with his dog outside",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون (سگمون) امشب داره پارس می‌کنه",
+    "en": "It (our dog) is barking this night",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "بارون شدیدی داره میاد",
+    "en": "It’s raining cats and dogs",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "لطفاً دوباره زنگ بزن، چون الان داریم شام می‌خوریم",
+    "en": "Please call back as we are eating dinner now",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "ما آخر هفته می‌ریم ساحل",
+    "en": "We’re going to the beach on the weekend",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داریم سر اینکه کدوم برنامه رو ببینیم دعوا می‌کنیم",
+    "en": "We’re fighting over which TV show to watch",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون‌ها هفته‌ی آینده به پاریس پرواز دارن",
+    "en": "They are flying to Paris next week",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دارن جاده رو باز می‌کنن",
+    "en": "They’re opening the road",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دارن دو هفته دیگه می‌‌رن عمان",
+    "en": "They’re going to Oman in two weeks",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "من در حال انجام دادن تکالیفم نیستم",
+    "en": "I am not doing my homework",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "فردا «لارا» رو نمی‌بینم",
+    "en": "I’m not seeing Laura tomorrow",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "من الان نمی‌رم توی تختم (بخوابم)",
+    "en": "I’m not going to bed now",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "من در حال آشپزی کردن نیستم",
+    "en": "I’m not cooking",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "من در حال رقصیدن با اون‌ها نیستم",
+    "en": "I’m not dancing with them",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "«آلبرت» امشب به مهمونی نمی‌ره",
+    "en": "Albert isn’t going to the party tonight",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "«چارلز» این ترم سه واحد برنمی‌داره",
+    "en": "Charles isn’t taking three courses this term",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "بچه‌ام در حال رانندگی نیست",
+    "en": "My child isn’t driving",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون این ماه باشگاه نمی‌ره",
+    "en": "He’s not going to the gym this month",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون در حال خوردن کباب نیست",
+    "en": "He isn’t eating Kebab",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "خواهرم الان در حال خوردن ناهار نیست",
+    "en": "My sister isn’t eating lunch now",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "مامانم در حال سؤال پرسیدن از مردم راجع‌به زندگی خصوصی‌شون نیست",
+    "en": "My mother isn’t asking people about their private life",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون توی آشپزخونه نمی‌مونه",
+    "en": "She’s not staying in the kitchen",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "ما هنوز هم منتظر پاسخ اون‌ها نیستیم",
+    "en": "We are not still waiting for their reply",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "در حال فوتبال بازی کردن نیستیم",
+    "en": "We’re not playing soccer",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اینجا درحال عربی رقصیدن نیستیم",
+    "en": "We aren’t dancing Arabic here",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون‌ها سوار دوچرخه­هاشون نیستن",
+    "en": "They’re not riding their bikes",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "به ما نگاه نمی‌کنن، مطمئنم!",
+    "en": "They are not looking at us, I’m sure!",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون‌ها امروز حتی یه کلمه هم قرار نیست حرف بزنن",
+    "en": "They’re not saying even a word today",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "قیمت ماشین این روزها در حال افزایش نیست",
+    "en": "Car prices are not getting higher nowadays",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "این زمستون، شمال برف نمیاد",
+    "en": "This winter, it’s not falling snow in the North",
+    "type": "negative",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون آخر هفته‌ی آینده می‌ره دیدن پدر و مادرش؟",
+    "en": "Is she visiting her parents next weekend?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "برادرت داره می‌ره پارک؟",
+    "en": "Is your brother going to the park?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "خواهرت داره ماشین رو می‌رونه؟",
+    "en": "Is your sister driving the car?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داره با تلفن حرف می‌زنه؟",
+    "en": "Is she talking on the phone?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "مادرت امروز داره می‌ره شیراز؟",
+    "en": "Is your mother going to Shiraz today?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داری تکالیفت رو انجام می‌دی؟",
+    "en": "Are you doing your homework?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داری لباس‌هات رو عوض می‌کنی؟",
+    "en": "Are you changing your clothes?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داری به من می‌خندی؟",
+    "en": "Are you laughing at me?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "خوابی؟",
+    "en": "Are you sleeping?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "خواهرت داره ناهار می‌خوره؟",
+    "en": "Is your sister eating lunch?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "خواهرت داره سیگار می‌کشه؟",
+    "en": "Is your sister smoking?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داره توی استخر شنا می‌کنه؟",
+    "en": "Is she swimming in the pool?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "مریم داره حیاط رو تمیز می‌کنه؟",
+    "en": "Is Maryam cleaning the yard?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دوستت در حال حاضر توی بیمارستان کار می‌کنه؟",
+    "en": "Is your friend working in the hospital right now?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دخترت خوابه؟",
+    "en": "Is your daughter sleeping?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داره ترکی حرف می‌زنه؟",
+    "en": "Is he speaking Turkish?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "حسین داره دوچرخه‌سواری می‌کنه؟",
+    "en": "Is Hossein riding a bicycle?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دوست‌پسرت، مسعود، داره اون کادو رو برای تو می‌خره؟",
+    "en": "Is your boyfriend, Masoud, buying that gift for you?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دوست‌پسرت داره باهات می‌رقصه؟",
+    "en": "Is your boyfriend dancing with you?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داریم این کادو رو برای عمه‌‌ام می‌خریم؟",
+    "en": "Are we buying this gift for my aunt?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داریم می‌ریم ایران مسافرت؟",
+    "en": "Are we traveling to Iran?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون‌ها سوار دوچرخه­هاشون هستند؟",
+    "en": "Are they riding their bikes?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "همکارهای برادرت میان مهمونی؟",
+    "en": "Are your brother’s colleagues coming to the party?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "دوست های خانوادگی‌تون امشب زنگ می‌زنن؟",
+    "en": "Are your family’s friends calling tonight?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون‌ها امسال دوره‌های نقاشی رو شرکت می‌کنند؟",
+    "en": "Are they attending the painting courses, this year?",
+    "type": "question",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کی؟ چه زمانی؟",
+    "en": "When?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کی به دیدن پدرت می‌ری؟",
+    "en": "When are you meeting your father?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کی می‌ری پاتوق شوهرت؟",
+    "en": "When are you going to your husband’s cozy place?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کی قهوه می‌خوری؟",
+    "en": "When are you drinking coffee?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون کی میاد خونه؟",
+    "en": "When is she coming home?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کی بهت زنگ می‌رنه؟",
+    "en": "When is she calling you?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "سارا کی می‌ره سفرِ اروپا؟",
+    "en": "When is Sara traveling to Europe?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کی؟",
+    "en": "Who?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داره با کی پشت تلفن حرف می‌زنه؟",
+    "en": "Who is she talking with on the phone?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کی داره ماشین قرمزه رو می‌رونه؟",
+    "en": "Who is driving the red car?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "با کی می‌‌رن مسافرت؟",
+    "en": "Who are they traveling with?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "با کی دارن دعوا می‌کنن؟",
+    "en": "Who are they fighting with?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چرا؟",
+    "en": "Why?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چرا داره گریه می‌‌کنه؟",
+    "en": "Why is she crying?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چرا علی داره تند رانندگی می‌کنه؟",
+    "en": "Why is Ali driving fast?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چرا اینجا منتظر می‌مونیم؟",
+    "en": "Why are we waiting here?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چرا داری فرانسوی می‌خونی؟",
+    "en": "Why are you studying French?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داری چی می‌خوری؟",
+    "en": "What are you eating?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "داری چی می‌خونی؟",
+    "en": "What are you reading?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چی پوشیده؟",
+    "en": "What is she wearing?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "برادرت چی‌کار می‌کنه؟ (شغلش چیه؟)",
+    "en": "What is your brother doing?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چطوری؟",
+    "en": "How?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "«سالی» چطور آواز می‌خونه؟",
+    "en": "How is Sally singing?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چقدر قهوه داری می‌خوری؟",
+    "en": "How much coffee are you drinking?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چطوری [با چه وسیله‌ای] سر کار می‌رن؟",
+    "en": "How are they going to work?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "چطوری توی این هوا دارن از کوه بالا می‌رن؟",
+    "en": "How are they climbing the mountain in this weather?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کجا؟",
+    "en": "Where?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "اون کجا زندگی می‌کنه؟",
+    "en": "Where is she living?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "کجا دوستات رو ملاقات می‌کنی؟",
+    "en": "Where are you meeting your friends?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "این قطار به کجا می‌ره؟",
+    "en": "Where is this train going to?",
+    "type": "wh",
+    "tense": "Present Continuous"
+  }
+]

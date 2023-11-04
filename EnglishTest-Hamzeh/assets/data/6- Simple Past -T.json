@@ -1,0 +1,950 @@
+[
+  {
+    "fa": "من دیروز والیبال بازی کردم",
+    "en": "I played volleyball yesterday.",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "یه خودکار خوبی داشتم، وقتی که دبیرستان بودم",
+    "en": "I had a nice pen when I was in high school",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چهار سال پیش یه بی‌ام‌و داشتم",
+    "en": "I had a BMW four years ago",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "توی مهدکودک دو تا دوست داشتم",
+    "en": "I had two friends in the kindergarten",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیروز یه کلاس داشتم",
+    "en": "I had a class yesterday",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "تو هفته‌ی گذشته فیلم جدیدی تماشا کردی",
+    "en": "You watched a new movie last week",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "تو جلسه‌ی قبل عربی حرف زدی",
+    "en": "You spoke Arabic in the previous session",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "توی اون لحظه، تو پلیس رو خبر کردی",
+    "en": "You called the police at that moment",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "«سلنا» دیشب با دوستش صحبت کرد",
+    "en": "Selena talked to her friend last night",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چند سال پیش، مامانم رامسر یه خونه داشت",
+    "en": "My mother had a house in Ramsar a few years ago",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "وقتی اونجا زندگی می‌کردیم، مامانم برامون نون تازه می‌پخت",
+    "en": "My mother baked fresh bread for us, when we lived there",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون پنج دقیقه پیش تختش رو مرتب کرد",
+    "en": "She made her bed five minutes ago",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون دو هفته پیش رفت پیش دندون‌پزشک‌ش",
+    "en": "She visited her dentist two weeks ago",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "«جو» دو روز پیش خونواده‌اش را دید",
+    "en": "Joe saw his family two days ago",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "زمانی که من هنوز به دنیا نیومده بودم، بابام توی روستا زندگی می‌کرد",
+    "en": "My father lived in the village when I wasn’t born yet",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "یکشنبه‌ی قبل، اون توی رودخونه شنا کرد",
+    "en": "He swam in the river last Sunday",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "سگمون پرید توی رودخونه",
+    "en": "Our dog dove into the river",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "تو که اینجا نبودی، برادرم با دوستش حرف زد",
+    "en": "My brother talked to his friend, when you weren’t here",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پریشب اون برگشت خونه",
+    "en": "He came back home the night before",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون (سگمون) دیشب پارس می‌کرد",
+    "en": "It (our dog) barked last night",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "ماهِ پیش حسابی بارون اومد",
+    "en": "It rained a lot last month",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "ما سال ۱۹۹۶ در «پاریس» زندگی می‌کردیم",
+    "en": "We lived in Paris in 1996",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "ما تکالیفمون رو تموم کردیم",
+    "en": "We finished our homework",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "ما توی مهمونی رقصیدیم",
+    "en": "We danced at the party",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون‌ها برای تعطیلات‌شون به «اسپانیا» رفتن",
+    "en": "They went to Spain for their holidays",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اونا بعدازظهر (پاساژ) رو باز کردند",
+    "en": "They opened the mall in the evening",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اونا دو هفته پیش رفتن عمان",
+    "en": "They went to Oman two weeks ago",
+    "type": "positive",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من دیروز فوتبال بازی نکردم",
+    "en": "I didn’t play football yesterday",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من هفته‌ی پیش کلاس نداشتم",
+    "en": "I didn’t have a class last week",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من وقتی دوازده سالم بود، دوچرخه‌ای نداشتم",
+    "en": "I didn’t have a bicycle when I was 12",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من وقتی جوون بودم، خونه‌ نداشتم",
+    "en": "I didn’t have a house when I was young",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من وقتی جوون بودم، زن نداشتم",
+    "en": "I didn’t have a wife when I was young",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من وقتی اونجا کار می‌کردم، شوهر نداشتم",
+    "en": "I didn’t have a husband when I worked there",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من وقتی اونجا کار می‌کردم، دو تا پسرهام رو نداشتم",
+    "en": "I didn’t have my two sons when I worked there",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من ویلا نداشتم",
+    "en": "I didn’t have a villa",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من قبلا فست‌فود دوست نداشتم",
+    "en": "I didn’t like fast food before",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من قبلا باورت نداشتم",
+    "en": "I didn’t believe you before",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پارسال بابام ویلا نداشت",
+    "en": "My father didn’t have a villa last year",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "نامزدم وقتی باهاش آشنا شدم، ویلا نداشت",
+    "en": "My fiancé didn’t have a villa when I met him",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پارسال بچه‌هام ماشین نداشتن",
+    "en": "My children didn’t have a car last year",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون ماه پیش باشگاه نرفت",
+    "en": "He didn’t go to the gym last month",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون کباب دوست نداشت",
+    "en": "He didn’t like Kebab",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "او امروز صبح به‌موقع نرسید",
+    "en": "She didn’t arrive on time this morning",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "مامانم این هفته یادش نرفت بره پیش دندون‌پزشکش",
+    "en": "My mother didn’t forget to go to her dentist this week",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "مامانم بلد نبود چه‌جوری نون بپزه",
+    "en": "My mother didn’t know how to bake bread",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "منشی‌شون شوهر نداشت",
+    "en": "Their secretary didn’t have a husband",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون‌ها ماه گذشته به تئاتر نرفتند",
+    "en": "They didn’t go to the theater last month",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون‌ها ما رو ندیدن، مطمئنم!",
+    "en": "They did not see us, I’m sure!",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون‌ها حتی یه کلمه هم حرف نزدن",
+    "en": "They didn’t even say a word",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "زمستون پارسال اصفهان برف نیومد",
+    "en": "Last winter, it didn’t snow in Isfahan",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیشب باران نبارید",
+    "en": "It didn’t rain last night",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "سگمون غذاش رو نخورد",
+    "en": "It (our dog) didn’t eat its food",
+    "type": "negative",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "تو دیروز فوتبال بازی کردی؟",
+    "en": "Did you play football yesterday?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "تو پریروز کلاس داشتی؟",
+    "en": "Did you have a class the day before yesterday?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من رو توی مال (پاساژ) دیدی؟",
+    "en": "Did you see me in the mall?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "بلد بودی چه‌جوری ماشین برونی؟",
+    "en": "Did you know how to drive a car?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون‌ها بازی رو باختند؟",
+    "en": "Did they lose the game?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "مامانت هم‌سن تو که بود، رانندگی می‌کرد؟",
+    "en": "Did your mother drive when she was at your age?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون شنا کرد؟",
+    "en": "Did she swim?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "او توی حیاط راه رفت؟",
+    "en": "Did she walk in the yard?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پارسال توی بیمارستان کار می‌کرد؟",
+    "en": "Did she work in the hospital last year?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "رقصیدن رو دوست داشت؟",
+    "en": "Did she like dancing?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "ترکی حرف می‌زد؟",
+    "en": "Did she speak Turkish?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیروز صبح خواهرت سوار دوچرخه شد؟",
+    "en": "Did your sister ride a bicycle last morning?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "خواهرت خونه داشت؟",
+    "en": "Did your sister have a house?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دوستت اومد؟",
+    "en": "Did your friend come?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "همکارت زنگ زد؟",
+    "en": "Did your colleague call?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دخترت خوابید؟",
+    "en": "Did your daughter sleep?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "بابات برات کادو خرید؟",
+    "en": "Did your dad buy you a present?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون آخر هفته‌ی گذشته خونه‌اش رو تمیز کرد؟",
+    "en": "Did he clean his home last weekend?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پسرت هفته‌ی پیش رو خوب درس خوند؟",
+    "en": "Did your son study well last week?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دوست‌پسرت باهات رقصید؟",
+    "en": "Did your boyfriend dance with you?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دوست منیژه، بهار، انگلیسی صحبت می‌کرد؟",
+    "en": "Did Manije’s friend, Bahar, speak English?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دوست خواهرت خونه داشت؟",
+    "en": "Did your sister’s friend have a house?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دوست مادرت آشپزی می‌کرد؟",
+    "en": "Did your mom’s friend cook?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "همکار شوهرت رانندگی می‌کرد؟",
+    "en": "Did your husband’s colleague drive?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دخترخواهرت نقاشی می‌کرد؟",
+    "en": "Did your sister’s daughter paint?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "بابای بهار پیاده‌روی می‌کرد؟",
+    "en": "Did Bahar’s dad walk?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پسر پروین سر کار می‌رفت؟",
+    "en": "Did Parvin’s son work?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون شوهر داشت؟",
+    "en": "Did she have a husband?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "خواهرت بچه داشت؟",
+    "en": "Did your sister have any children?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "همکارت برادر داشت؟",
+    "en": "Did your colleague have any brothers?",
+    "type": "question",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کی؟ چه زمانی؟",
+    "en": "When?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کی اون ژاکت رو خریدی؟",
+    "en": "When did you buy that sweater?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کی انگلیسی خوندی؟",
+    "en": "When did you study English?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون کی رفت اروپا؟",
+    "en": "When did she travel to Europe?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چه ساعتی از خواب بلند شدی دیروز؟",
+    "en": "What time did you get up yesterday?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیروز کی برگشتی؟",
+    "en": "When did you come back yesterday?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون کی رفت اروپا؟",
+    "en": "When did she travel to Europe?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چرا؟",
+    "en": "Why?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چرا بچه 2 ساعت پیش گریه کرد؟",
+    "en": "Why did the baby cry 2 hours ago?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چرا علی تند رانندگی می‌کرد وقتی مسافرت بودیم؟",
+    "en": "Why did Ali drive fast when we went on a trip?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چرا اون حرف رو زدی؟",
+    "en": "Why did you say that?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چرا فرانسوی خوندی؟",
+    "en": "Why did you study French?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "خواهرت دیشب برای شام چه چیزی درست کرد؟",
+    "en": "What did your sister cook for dinner last night?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دختره توی کیفش چی داشت؟",
+    "en": "What did she have in her bag?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیروز صبح چی خوردی؟",
+    "en": "What did you eat last morning?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "برادرت چی‌کار می‌کرد؟ (شغلش چی بود؟)",
+    "en": "What did your brother do?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چطوری؟",
+    "en": "How?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "«تد» امروز صبح چطور (با چه وسیله‌ای) سر کار رفت؟",
+    "en": "How did Ted get to work this morning?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چطوری انجامش دادی؟",
+    "en": "How did you do that?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "زهرا چطوری کیک پخت؟",
+    "en": "How did Zahra bake the cake?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیروز چطوری درس خوندی؟",
+    "en": "How did you study yesterday?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کجا؟",
+    "en": "Where?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پدرت وقتی بچه بود کجا زندگی می‌کرد؟",
+    "en": "Where did your father live when he was a child?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پدر و مادرت کجا زندگی می‌کردن؟",
+    "en": "Where did your parents live?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کجا کار می‌کردی؟",
+    "en": "Where did you work?",
+    "type": "wh",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیشب یه فیلم ترسناک دیدم.",
+    "en": "I watched a horror movie last night.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون توی خونه آهنگ گوش میداد.",
+    "en": "He listened to music at home.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "او سه ساعت پیش یه مقدار آب‌میوه خورد.",
+    "en": "She drank some juice 3 hours ago.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون‌ها هفته پیش کتاب خریدند.",
+    "en": "They bought books last week.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "جک ماشین خودش رو روند.",
+    "en": "Jack drove his own car.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون توی دانشگاه تهران درس میخوند.",
+    "en": "He studied in Tehran university.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "سارا اینجا رقصید.",
+    "en": "Sarah danced here.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون جمعه پیش سفر کرد کرمان.",
+    "en": "He traveled to Kerman last Friday.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیشب ۸ ساعت خوابید.",
+    "en": "He slept last night for 8 hours.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون ۵ ساعت کار کرد.",
+    "en": "He worked for 5 hours.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون با پورش رانندگی کرد.",
+    "en": "He drove a Porsche.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون توی تهران کار میکرد.",
+    "en": "She worked in Tehran.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "او شش ساعت پیش به مادرش زنگ زد.",
+    "en": "She called her mom six hours ago.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من ۵ نفر رو دعوت کردم.",
+    "en": "I invited 5 people.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون با اتوبوس رفت کرج.",
+    "en": "He went to Karaj by bus.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "او اونجا عموش رو دید.",
+    "en": "He saw his uncle there.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون کادو رو دوشنبه خرید.",
+    "en": "He bought the gift on Monday.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "خواهرت رقصید؟",
+    "en": "Did your sister dance?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پسرت چقدر گریه کرد؟",
+    "en": "How long did your son cry?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "علی کجا زندگی می‌کرد؟",
+    "en": "Where did Ali live?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون کجا موزیک گوش کرد؟",
+    "en": "Where did he listen to music?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اونا دیروز چی خریدن؟",
+    "en": "What did they buy yesterday?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون دیروز چی نوشید؟",
+    "en": "What did she drink yesterday?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "دیشب چی کار کردی؟",
+    "en": "What did you do last night?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کی توی خیابون صدا درآورد؟",
+    "en": "Who made noise in the street?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کی اومد اینجا؟",
+    "en": "Who came here?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "غذای چینی دوست نداشتم.",
+    "en": "I did not like Chinese food.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون با همسرش حرف زد.",
+    "en": "He talked to his wife.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "پیتر کجا فرانسوی رو خوند؟",
+    "en": "Where did Peter study French?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون دیروز با کی حرف زد؟",
+    "en": "Who did he talk to yesterday?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون شب‌ها چه سریالی می‌دید؟",
+    "en": "Which TV series did she watch at nights?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "آخرین بار چه رنگی خریدی؟",
+    "en": "Which color did you buy last time?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "غذای کی رو خوردی؟",
+    "en": "Whose food did you eat?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "سارا از لپ‌تاپ چه کسی استفاده کرد؟",
+    "en": "Whose laptop did Sarah use?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "جک ماشین کی رو روند؟",
+    "en": "Whose car did Jack drive?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "عاشقش بودی؟",
+    "en": "Did you love him?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون با مترو اومد اینجا.",
+    "en": "He came here by subway.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "بابات چطوری رفت کرج؟",
+    "en": "How did your dad go to Karaj?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کدوم چایی رو خوردن؟",
+    "en": "Which tea did they drink?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون تا باشگاه رانندگی کرد.",
+    "en": "He drove to gym.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چند نفر رو دعوت کردی؟",
+    "en": "How many people did you invite?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "اون‌ها یه عالمه شکر خریدن.",
+    "en": "They bought a lot of sugar.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "توی آخرین وعده چقدر نمک مصرف کردی؟",
+    "en": "How much salt did you use for last meal?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چرا توی جمع اون حرف رو زد؟",
+    "en": "Why did she say that in public?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "برای ناهار چقدر غذا پختن؟",
+    "en": "How much food did they cook for lunch?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "برادرم توی کلوپ دعوا کرد.",
+    "en": "My brother fought at the club.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "من برای مرگش نتونستم گریه کنم.",
+    "en": "I couldn’t cry for her death.",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "کی یاد گرفتی گیتار بزنی؟",
+    "en": "When did you learn to play the guitar?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "مامانت کی از روستا برگشت؟",
+    "en": "When did your mother come back from the village?",
+    "type": "practice",
+    "tense": "Simple Past"
+  },
+  {
+    "fa": "چرا نرفتی مهمونی؟",
+    "en": "Why didn’t you go to the party?",
+    "type": "practice",
+    "tense": "Simple Past"
+  }
+]

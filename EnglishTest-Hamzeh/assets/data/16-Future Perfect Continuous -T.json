@@ -1,0 +1,872 @@
+[
+  {
+    "fa": "ساعت ۱۰ شب، شش ساعت میشه که مشغول کار کردنم (دارم کار میکنم ) .",
+    "en": "At 10 p.m, I will have been working for  six hours.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا اون موقع، دو ساعت میشه که اونا مشغول صحبت کردنن .",
+    "en": "They will have been talking for two hours by then.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا ساعت شش، سه ساعت میشه که اینجا منتظر مونده ..",
+    "en": "He will have been waiting here for three hours by six o'clock.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا سال 2001،  شانزده سال میشه که تو  لندن زندگی می‌کنم.",
+    "en": "By 2001, I will have been living in London for sixteen years.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی این دوره رو  تموم کنم ، بیست سال میشه که مشغول یادگیری زبان انگلیسیم .",
+    "en": "When I finish this course, I will have been learning English for twenty years.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "سال آینده، چهار سال میشه که تو اینجا مشغول به کار بودم .",
+    "en": "Next year I will have been working here for four years.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "از صبح داره کتاب میخونه .",
+    "en": "She will have been reading books since morning.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "دو ساعته که داریم (آهنگ) میخونیم .",
+    "en": "We will have been singing for two hours.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "سه ساله که داره زبان فرانسوی یاد میگیره .",
+    "en": "He will have been trying to learn the french language for three years.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "سه ماهه که داریم این این تیشرت ههای رسمی رو میپوشیم .",
+    "en": "We will have been wearing these formal shirts for three months.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "یه هفتست که داره صبحا زود از خواب پا میشه .",
+    "en": "She will have been waking up early in the morning for a week.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا در حال سفر کردنن ، پس دلشون میخواد زود برن تو رختخواب .",
+    "en": "They will have been travelling, so they’ll want to go to bed early.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی که آزمون میده ، سه سال میشه که داره زبان میخونه .",
+    "en": "He will have been studying English for three years when he takes the exam.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کل رو داشتیم راه میفریم ، پس میخوایم بعد از ظهر استراحت کنیم .",
+    "en": "We will have been walking all day, so we’ll want to relax in the evening.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی که بازنشست بشم حدود بیست سال میشه تو این شرکت کار میکنم .",
+    "en": "I will have been working in this company for twenty years when I retire.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی که ازدواج کنن ، سه سال میشه که دوست پسرش رو میبینه / باهاش در ارتباطه .",
+    "en": "She will have been seeing her boyfriend for three years when they get married.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "داره آشپزی میکنه ، پس آشپزخونه (باید ) گرم باشه .",
+    "en": "He will have been cooking, so the kitchen will be warm.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "از اون موقعی که مامانم رو دیدم به مدت سه روزه که در سفره.",
+    "en": "My mom will have been travelling for two days by the time I see her.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا تا شام خسته میشن . هفت ساعته که دارن هاکی بازی میکنن .",
+    "en": "They'll be exhausted by dinner. They will have been playing hockey for seven hours.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا ماه آینده، 10 سال میشه که ما تو این خانه زندگی می‌کنیم.",
+    "en": "We will have been living in this house for 10 years by next month.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": ".پنج سال میشه که ما داریم تو پاریس زندگی می‌کنیم",
+    "en": "They will have been living in Paris for five years.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": ".دو سال میشه که دکتر بیماران رو  درمان می‌کنه",
+    "en": "The doctor will have been treating patients for two years.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": ".اون از ساعت 10 صبح مشغول خوندن این کتابه",
+    "en": "He will have been reading this book since 10 AM.",
+    "type": "positive",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی / تا برسید، من 30 دقیقه منتظر نمیمونم .",
+    "en": "I will not have been waiting there for 30 minutes when you arrive.",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "او تا قبل از رسیدن صندلی، مدت زیادی واینمیسته .",
+    "en": "She will not have been standing very long before the chair arrives.",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا اون موقع، مدت زیادی نمیشه که اون مشغول دویدن هستن.",
+    "en": "They will not have been running for very long by then.",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "قبل از اتمام این کار، تو برنامه حضور نخواهم داشت.",
+    "en": "I will not have been attending the program before I finish this job.",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا پایان ماه اکتبر، دو سال میشه که به نیویورک سفر نکرده‌ام.",
+    "en": "I won’t have been travelling to New York for 2 years by the end of October.",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "بن دو ماه میشه که وزن کم نمیکنه .",
+    "en": "Ben won’t have been losing weight for three months .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "دو ماه میشه که سفر نمیره .",
+    "en": "He won’t have been traveling for two months.",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "برای یه ساعت انشا نمینویسم .",
+    "en": "I won’t have been writing an essay for one hour .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا دو ساعته که دورچخه سواری نمیکنن .",
+    "en": "They won’t have been riding a bicycle for two hours .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "5 ساله که کاری انجام نمیده / کار نمیکنه .",
+    "en": "She won’t have been doing a job for five years .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "جولیا هفته ی دیگه این ساعت / زمان کار نمیکنه . تو تعطیلات خواهد بود !",
+    "en": "Julie won’t be working this time next week. She’ll be on holiday !",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "من فقط نصف تکالیفمرو انجام دادم . قبل از اینکه استاد بیاد (نمیرسم ) تمومش کنم .",
+    "en": "I’m only halfway through my homework. I won’t have finished it before the teacher arrives .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "هیچ کسی تو دفتر نمیمونه . همگی رفتن خونه .",
+    "en": "There won’t be anyone in the office. Everyone will have gone home.",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "ما خیلی منتظر نمیمونیم .",
+    "en": "We will not have been waiting long .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "دو سال میشه که کار نمیکنم .",
+    "en": "I won't have been working for two years .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا زمان توافق، معلما یه ماه اعتصاب میکنن .",
+    "en": "The teachers will have been striking for a month by the time the deal is made .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کل شب فیلم پخش میشه . ما شش ساعته که داریم فیلم میبینیم .",
+    "en": "The films run all night. We will have been watching movies for six hours .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون هنوز گیجه . اون به مدت سه ساعت تحت عمل جراحی قرار میگیره .",
+    "en": "She'll still be groggy. She will have been undergoing surgery for three hours .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا اون موقعی که که برسید، من چیز فوق العاده ای مییپزم .",
+    "en": "By the time you arrive I will have cooked something spectacular .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی برسیم لس آنجلس ، نیاز داریم که استراحت کنیم ، چون 800 مایله که رانندگی کردیم .",
+    "en": "When we arrive in Los Angeles we'll need to rest, because we will have driven about 800 miles .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی از قطار پیاده بشی ، در ایستگاه منتظر خواهیم بود .",
+    "en": "When you get off the train, we 'll be waiting for you on the platform .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "دوشنبه ی بعدی با اولین قطار حرکت میکنیم .",
+    "en": "We 'll be leaving on the first train next Monday .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا وقتی که سال آینده به انگلیس سفر کنم ، بیشتر از 4 سال میشه که زبان میخونم ، پس فکر کنم آماده باشم .",
+    "en": "When I travel to England next year I will have studied English for over four years, so I think I'll be ready .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا ساعت ۷، پنج ساعت نیست که دارم از تلفن همراهم استفاده می‌کنم .",
+    "en": ".By 7 o’clock, I will not have been using my cell phone for 5 hours .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون شش ماه نمیشه که تو این کارخانه مشغول کار کردنه.",
+    "en": "He will not have been working in the factory for six months .",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا تا اون موقع مشغول دویدن نیستن .",
+    "en": "They will not have been running by then",
+    "type": "negative",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا تا وقتی صندلیش برسه، خیلی وقته که ایستاده ؟",
+    "en": "Will she have been standing for very long when her chair arrives?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا تا قبل از اینکه بیام ، میرید کنسرت ؟",
+    "en": "Will you have been going to the concert before I come?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا سه ماهه که سبزیجات می‌خوری؟",
+    "en": "Will you have been eating vegetables for three months?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا اون از صبح، به بچه‌ها در حال آموزش دادنه ؟",
+    "en": "Will she have been teaching the kids since morning?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "برای سال های زیادیه که مامان غذا میپزه ؟",
+    "en": "Will my mom have been cooking food for many years?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا زمان مهمونی کریسمس ، حدود ده سال میشه که اینجا کار میکنی ؟",
+    "en": "Will you have been working here for ten years by the time of the Christmas party?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا الان ( به اندازه ی ) دو هفته نمیشه که مسافرتن ؟",
+    "en": "Won't they have been travelling for two weeks by then?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا سه ساعته که بچه ها دارن سر و صدا میکنن ؟",
+    "en": "Will the kids have been making a noise for three hours?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا اونا از ماه ژوئن تو این کارخانه کار میکنن ؟",
+    "en": "Will they have been working in this factory since June?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا اونا از فردا از تلفنشون استفاده میکنن ؟",
+    "en": "Will they have been using their phone since Tomorrow?",
+    "type": "question",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کی ؟ چه کسی ؟",
+    "en": "Who ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا کیو قبل از کنفرانس آموزش میدادن ؟",
+    "en": "Who will they have been training before the conference ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کی ؟",
+    "en": "Whom ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "برای کی مشغول کار انجام دادنی ؟",
+    "en": "Whom will I have been working for ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چرا ؟",
+    "en": "Why ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چرا از ماه آوریل مشغول راه‌اندازی کسب و کار خودت نمیشی؟",
+    "en": "Why won't you have been running your business since April ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تو این مثال از «جمله پرسشی منفی» (Negative question استفاده شده.)",
+    "en": "",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چرا هوا تا ماه مه سردتر میشه ؟",
+    "en": "Why will it have got colder by May ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چرا اون دوچرخشو با سرعت 135 مایل در ساعت نمیرونه؟",
+    "en": "Why won’t he have driven his bike at the speed of 135mph ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چرا اون قبل از ژوئن ازدواج کرده ؟",
+    "en": "Why will he have got married before June ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "رابین قبل از رسیدن شما مشغول انجام چه کاری خواهد بود؟",
+    "en": "What will Robin have been doing before you reach ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تام تا پایان امسال چه چیزی رو یاد میگیره؟",
+    "en": "What will Tom has been learning by the end of this year ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "از میان ترم ( تا الان ) استاد چه چیزی درس میدادن ؟",
+    "en": "What will the professor have been teaching by the mid-term?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "دولت چه حمایتی از کسب و کارهای کوچک میکنه ؟",
+    "en": "What support will the government have been providing for small businesses ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چی داره میپزه ؟",
+    "en": "What will he have been cooking ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چطوری؟",
+    "en": "How much ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اگر برنامه ها رو تغییر بدیم تا سال آینده چقدر پول پس انداز میکنیم ؟",
+    "en": "How much money will we have been saving by next year if we switch plans ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چند وقت ؟",
+    "en": "How long ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "شرکت چه مدته که مشغول تبلیغاته ؟",
+    "en": "How long will the company have been advertising ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون چه مدت در حال گوش دادن به موسیقیه؟",
+    "en": "How long will she been listening to music ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون چه مدت در حال گوش دادن به رادیوئه ؟",
+    "en": "How long will she been listening to the radio?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "جو زمانی که بازنشسته بشه چه مدت کار خواهد کرد؟",
+    "en": "How long will Jo have been working when he retires ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چه مدت تو  پایان سال اینجا زندگی می کنی؟",
+    "en": "How long will you have been living here at the end of the year ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "چه مدت میشه که اونا در حال دویدن هستن ؟",
+    "en": "How long will they have been running?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی فارغ‌التحصیل بشید چه مدت میشه که در حال تحصیلی؟",
+    "en": "How long will you have been studying when you graduate?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون چه مدت در حال گوش دادن به رادیوئه ؟",
+    "en": "How long will she been listening to the radio?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا کی بارون میباره ؟",
+    "en": "How long will it have been raining?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کجا؟",
+    "en": "Where?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا وقتی که برسیم، مهمونا کجا جمع میشن ؟",
+    "en": "Where will the guests have gathered by the time we arrive ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "مادرت قبل از اینکه تو  ماه اوت نقل مکان کنه کجا میمونه ؟",
+    "en": "Where will your mother have been staying before she moves in August ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کجا قراره کار کنم ؟",
+    "en": "Where will I have been working ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون کجا درس خونده ؟",
+    "en": "Where will she have been studying ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کی؟ چه‌زمانی؟",
+    "en": "When?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی ساعت 6:00 بیایم، خیلی وقت میشه که تمرین می‌کنی؟",
+    "en": "When I come at 6:00, will you have been practicing long ?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "کِی کارتون رو ترک میکنید ؟",
+    "en": "When will they have left their jobs?",
+    "type": "wh",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "سال آینده، ده سال میشه که من مشغول تدریس زبان انگلیسیم .",
+    "en": "Next year, I will have been teaching English for ten years.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا زمانیکه نقاشی رو تمام کنه ، بیش از شش ماه میشه که مشغول کشیدن نقاشی دیواریه .",
+    "en": "He will have been painting the mural for over six months by the time it is finished.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا پایان ماه مِی ۱۰ساله که دارم تواین  باشگاه ورزش میکنم .",
+    "en": ".By next May I will have been training at this gym for 10 year .",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی خانوادش برسن، ۵ساعت میشه که داره گیتار میزنه.",
+    "en": ".She is going to have been playing guitar for 5 hours when her family arrive .",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا پایان اکتبر دو سال میشه که در حال سفر کردن به نیویورک نیستم .",
+    "en": "I will not have been travelling to New York for 2 years by the end of October.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا تاپایان امسال تو همین شهر زندگی میکنی؟",
+    "en": "Will you have been living in this city by the end of this year ?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون شش ماه میشه که تو این کارخانه کار نمیکنه .",
+    "en": "He will not have been working in the factory for six months.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا از ماه مارس از این ماشین استفاده نکردن .",
+    "en": "They will not have been using this car since March.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا ساعت ۷، ۵ساعت نیست که از تلفن همراهم استفاده می کنم .",
+    "en": ".By 7 o’clock, I will not have been using my cell phone for 5 hours",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی هواپیمات بالاخره برسه ، ۳ساعت میشه که در انتظاری؟",
+    "en": "Are you going to have been waiting for 3 hours when your plane finally arrive ?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا پایان سال آینده ، چه مدته که زبان انگلیسی یاد میگیری؟",
+    "en": "How long will you have been learning English by the end of this year ?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "بیشتر از یه ساعت که منتظره اون زنگ بزنه .",
+    "en": "He will have been waiting for more than one hour when she finally calls him .",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تو سپتامبر، اون به مدت دو سال تو شرکت من قراره کار کنه.",
+    "en": "In september, she will have been working at my company for two years .",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "سر ساعت شش، من دو دقیقه منتظر میمونم .",
+    "en": "At six o’clock, I will have been waiting for two minutes .",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون دو روزه که از دوربینش استفاده نمیکنه .",
+    "en": "He will not have been using his camera for two days.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی سی ساله بشه ، بیست سال میشه که فوتبال بازی میکنه .",
+    "en": "When she turn thirty, she will have been playing soccer for twenty years",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا رضا وقتی اون بیاد کار میکنه ؟",
+    "en": "Will reza have been working when she arrive",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "مهدی اونقدر کار نمیکنه که واجد شرایط باشه .",
+    "en": "Mahdi won’t have been working long enough to qualify",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "من منتظر بچه ها نمیمونم .",
+    "en": "I will not have been working for children.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا مهدی چهار ساله که کار می کنه؟",
+    "en": "will Mahdi have been working for four years  .",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "رضا کجا کار می کرد؟",
+    "en": "Where will reza have been working ?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "سال آینده، ده سال میشه که مشغول تدریس زبان انگلیسیم  .",
+    "en": "Next year, I will have been teaching English for ten years.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا تمام وقت برای انجام اون کار گوش دادن .",
+    "en": "they will have been listening all the time for that job .",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "پنجشنبه، یه هفته میشه که می شناسمت .",
+    "en": "On Thursday, I will have known you for a week.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا کریسمس چهل و پنج کتاب میخونم .",
+    "en": "I will have read forty-five books by Christmas.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون در حال تماشای تلویزیون بوده .",
+    "en": "She'll have been watching TV.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اونا فردا تا این لحظه 4 ساعت میشه که در حال پرواز به سمت لندن هستن .",
+    "en": "They will have been flying to London for 4 hours by this time tomorrow.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "من پنج ساعت رانندگی خواهم کرد .",
+    "en": "I'll have been driving for five hours.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "مشروب نخوردی، نه؟",
+    "en": "You won't have been drinking, will you?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی برگرده بیشتر از یه ساعت میشه که اونا دارن حرف میزنن .",
+    "en": "They will have been talking for over an hour by the time she returns.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "مدت زیادی رانندگی نمی کنیم .",
+    "en": "We won't have been driving for long.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "رام تا ملاقات من یه ساعت منتظر میونه .",
+    "en": "Ram will have been waiting for an hour by the time I meet him.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون تمام روز در سفر بوده .",
+    "en": "He'll have been travelling all day.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "جیسون وقتی به خانه برسه خستست چون بیش از یه ساعت میشه که اون پیاده روی میکنه .",
+    "en": "Jason will be tired when he gets home because he will have been jogging for over an hour.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "ماه آینده به مدت دو سال در حال یادگیری زبان چینی خواهم بود.",
+    "en": "Next month I'll have been studying Chinese for two years.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی من رسیدم کار می کردی؟",
+    "en": "Will you have been working when I arrive?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "جو وقتی که بازنشسته بشه چه مدته کار کرده ؟",
+    "en": "How long will Jo have been working when he retires?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون به اندازه کافی درس نمیخونه تا واجد شرایط باشه .",
+    "en": "He won't have been studying long enough to qualify.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "او بیشتر از سیزده ساعته بدون توقف شنا می کنه .",
+    "en": "she'll have been swimming non-stop for over thirteen hours.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون از ده صبح در حال خوندن این کتابه .",
+    "en": "He will have been reading this book since 10 AM.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "از فردا به مدت 6 روز قراره کار کنم .",
+    "en": "I will have been working for 6 days by tomorrow.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "وقتی فارغ‌التحصیل بشی ، چند وقته که درس میخونی؟",
+    "en": "How long will you have been studying when you graduate?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تام تا پایان امسال چه چیزی رو یاد میگیره ؟",
+    "en": "What will Tom has been learning by the end of this year?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تا ساعت 8، سه ساعت میشه که از کامپیوترم استفاده می‌کنم .",
+    "en": "By 8 o’clock, I will have been using my computer for 3 hours.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "تمام بعد ظهر فردا ، مادرم در حال آشپزی کردن برای تولدمه .",
+    "en": "My mother will have been cooking the whole tomorrow afternoon for my birthday.",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "باب قبل از رسیدنتون مشغول انجام چه کاری خواهد بود؟",
+    "en": "What will Bob have been doing before you reach?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا قراره شما برای بیشتر از یه سال تو نیوزلند زندگی کنید ؟",
+    "en": "will you have been living in New Zealand for over a year?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "اون چه مدت در حال گوش دادن به رادیوئه؟",
+    "en": "How long will she been listening to the radio?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا اون تا صبح، در حال آموزش دادن به دانش‌آموزان خواهد بود؟",
+    "en": "Will she have been teaching the students since morning?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  },
+  {
+    "fa": "آیا تا قبل اینکه بیام ، میرید سینما ؟",
+    "en": "Will you have been going to the cinema before I come?",
+    "type": "practice",
+    "tense": "Future Perfect Continuous"
+  }
+]

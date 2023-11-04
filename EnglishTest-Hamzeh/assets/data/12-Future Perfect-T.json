@@ -1,0 +1,848 @@
+[
+  {
+    "fa": "من گزارش رو تا وقت ناهار تموم میکنم .",
+    "en": "I’ll have finished the report by lunchtime .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "از این مغازه سه تا تیشرت خریدیم .",
+    "en": "I will have purchased three shirts from this shop .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تصمیم گرفتم که مدل موهامو با این استایل بزنم .",
+    "en": "I will have decided to cut my hair into this kind of hairstyle.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "من مبلغی که باید برگردونم بهش ، تا تاریخ مشخص (شده ) بهش میدم .",
+    "en": "I will have given him his pending amount by the date.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "همه ی قبضای این ماه رو پرداخت کردم .",
+    "en": "I will have paid all the bills for this month.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا پنج سال آینده، درس پزشکیمو تموم میکنم .",
+    "en": "In five years' time, I'll have finished studying medicine.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از اینکه بهمون ملحق بشی ، انواع آهنگ‌هارو میخونم .",
+    "en": "I will have sung different kinds of songs before you join us .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "وقتی تو به اینجا بیایی، من تو برنامه شرکت کردم.",
+    "en": "by the time you come here, I will have attended the program.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ساعت دو به من زنگ بزن. تا آن موقع ناهار خوردم.",
+    "en": "Call me at 2 p.m. I’ll have eaten lunch by then.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "",
+    "en": "",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا یک ساعت دیگه کارم تمام میشه و بعدش می‌تونیم فیلم تماشا کنیم.",
+    "en": "I'll have finished in an hour and then we can watch a film.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا سه سال آینده، من از دانشگاه فارغ‌التحصیل شدم.",
+    "en": "In three years' time, I'll have graduated from university.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا قبل از ملاقات با دندان‌پزشک، همه مجله‌های اتاق انتظار رو میخونم .",
+    "en": "I will have read every magazine in the waiting room before I see the dentist .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "(عبارت «before I see the dentist» به زمان مشخصی در آینده اشاره دارد.)",
+    "en": "",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "امیدوارم که وقتی این کره خاکی رو ترک می‌کنم ، روی چند نفر تأثیر مثبتی گذاشته باشم .",
+    "en": "I hope that, when I leave this planet, I will have touched a few people in a positive way .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "(عبارت «when I leave this planet» نشان‌دهنده زمان مشخصی در آینده است.)",
+    "en": "",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا سال آینده، من از دبیرستان فارغ‌التحصیل شدم.",
+    "en": "By next year, I will have graduated from high school.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "شامشو سر وقت میخوره .",
+    "en": "She will have eaten her dinner on time .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون به پاریش میره تا خانوادشو ببینه .",
+    "en": "She will have gone to Paris to meet her parents.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "توسط سازمان ما به بچه های فقیر پول داده میشه .",
+    "en": "Poor children will have given food by our foundation.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون تو درختچه های یه جنگل پنهان خواهد شد .",
+    "en": "She will have hidden into the shrubs in a forest .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "در ماه مه، ده سال میشه که اون به استرالیا رفته .",
+    "en": "In May, she’ll have been in Australia for ten years .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون درمورد مسئله ی اثر گلخانه ای خیلی صحبت کرده .",
+    "en": "She will have spoken a lot on the global warming issue .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون قبل از اینکه دوست دخترش برسه کل پیام هارو پاک میکنه.",
+    "en": "He will have deleted all the messages before his girlfriend’s arrival.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون بیشتر از 800 متر با ماشینش رانندگی کرده .",
+    "en": "He will have driven his car for over 800 km.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "جلوی اهالی مورد ضرب و شتم قرار گرفته .",
+    "en": "He will have beaten in front of local people.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "رغاو مقالشو برای روزنامه مینویسه .",
+    "en": "Raghav will have written his article for the newspaper.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از اینکه وارد اتاق خواب بشه ، دزد ازز اتاق خارج شده بود .",
+    "en": "Before he enters the bedroom, the thief will have escaped from there.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "در ماه ژوئن، سه سال میشه که اون اینجا زندگی میکنه .",
+    "en": "In June he’ll have lived here for 3 years .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا پایان ماه ژوئیه، «روبرت» کتاب‌های مختلفی رو میخونه .",
+    "en": "Robert will have read various kinds of books by the end of July .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از اینکه «باب» به کلاس بیاد، قراره به کتابخانه بره .",
+    "en": "Bob will have gone to the library before he comes to the class.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "بعد از سفر بعدی ‌مون، سه باری میشه که به پاریس رفتیم.",
+    "en": "After our next trip, we’ll have been to Paris three times .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تو مطالعه خواهی کرد / تو قرار مطالعه کنی .",
+    "en": "You will have studied.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا زمان رسیدنتون ، غذا صرف شده و سخنرانی‌ها انجام شده .",
+    "en": "By the time you arrive, we will have finished the meal and the speeches .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "(قید زمان «by the time» به زمان مشخصی در آینده اشاره دارد.)",
+    "en": "",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ما هر دو تو محوطه کالج برای یه سوء تفاهم کوچک دعوا کردیم .",
+    "en": "We both will have fought at the college premises for a little misunderstanding.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا وقتی که ما برسیم، بچه‌ها به رختخواب رفتن  .",
+    "en": "By the time we arrive, the kids will have gone to bed.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا شما به خونه بیایید، ما تو اون بازار خرید میکنیم .",
+    "en": "We will have shopped in that market until you come home.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا قبل از رسیدنتون ،  تو اون زمین ، فوتبال بازی خواهند کرد.",
+    "en": "They will have played football in that field before you reach .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا جمعه آینده، ما به خونه جدیدمون میریم .",
+    "en": "By next Friday we’ll have moved into our new home!",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "بیا تا ساعت ۵ صبر کنیم. بازی تا اون موقع تمام میشه .",
+    "en": "Let’s wait until 5 p.m. The game will have finished by then .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ما تا امروز عصر، مشکل بخش فناوری اطلاعات رو برطرف میکنیم.",
+    "en": "We’ll have resolved the IT problem by this afternoon.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ما بیشتر زمان رو تو این رستوران میگذرونیم .",
+    "en": "We will have spent most of the time in this restaurant  .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا فردا، شما پنج مصاحبه با این شرکت خواهید داشت!",
+    "en": "By tomorrow you’ll have had five interviews with this company!",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا قبل از نقل مکان، خونه رو رنگ خواهند کرد.",
+    "en": "They’ll have painted the house before moving in .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "خلبان هواپیمای 20000 فوتی رو بالاتر از سطح عادی به پرواز درمیاره .",
+    "en": "The pilot will have flown an airplane 20000 ft above the surface level.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا برای بهترین اجرای رقص قراره جایزه بگیرن .",
+    "en": "They will have received an award for the best dance performance.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "هردوتای اونا این ماه ازدواج میکنن .",
+    "en": "Both of them will have married on this month end.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "بازیکنان در آب و هوای گرم بازی خواهند کرد .",
+    "en": "Players will have played their game in the hot climate.",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا یه کیت کریکت برای تیم خودشون خریداری خواهند کرد.",
+    "en": "They will have bought a cricket kit for their team .",
+    "type": "positive",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "من قبل از ملاقات با دندان‌پزشک، تمام مجله‌های اتاق انتظار رو نمیخونم.",
+    "en": "I will not have read every magazine in the waiting room before I see the dentist.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "هیچ چیزی در مورد برنامم بهت نمیگم .",
+    "en": "I won’t have said anything to you about my plan.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "من تا هفته آینده، همه گزارشترو نمینویسم .",
+    "en": "I won't have written all the reports by next week .",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "من این کتابو تمام نخواهم کرد.",
+    "en": "I will not have finished this book.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "کیک درست نخواهد شد (توسط من) .",
+    "en": "A cake will not have been made by me .",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون به خونش نمیرسه.",
+    "en": "He won't have reached his home.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون شام نمیپزه .",
+    "en": "He will not have cooked dinner.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا زمانی که رژه تمام بشه ، چستر نمیرسه .",
+    "en": "Chester will not have arrived by the time the parade is over.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "رضا تا تموم شدن کنسرت نمیرسه .",
+    "en": "Reza will not have arrived by the time the concert is over .",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون تا ساعت ده صبح به اینجا نخواهد اومد.",
+    "en": "She won't have come here by 10 a.m.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "معلم به محوطه کالج خودش نگاه نکرده .",
+    "en": "The teacher will not have looked at their college premises.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "پسرا قبل از ساعت یک بعد از ظهر ناهارشونو نمیخورن .",
+    "en": "The boys will not have eaten their food before 1 p.m.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا وقتی شما برسید، بازی تمام نخواهد شد.",
+    "en": "By the time you arrive, the game will not have finished.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "از این به بعد دیگه چیزی ازم نمیشنوی .",
+    "en": "You will not have heard anything about me from now.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ما تا ساعت شش عصر به خونمون نمیریم .",
+    "en": "We will not have gone to our home till 6 p.m.  .",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "فردا بعد از ظهر قبل از رسیدن به فرودگاه ناهار نمیخوریم .",
+    "en": "We will not have eaten lunch before we get to the airport tomorrow afternoon.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا قبل از رسیدنمون به اونجا اونا هنوز صبحانه نخوردن.",
+    "en": "They won’t have eaten breakfast before we get there.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا تا قبل از مهمانی تزئین اتاقمو تموم نمیکنن .",
+    "en": "They won’t have finished decorating the room before the party.",
+    "type": "negative",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا اونا به دوست خودشون کمک میکنن؟",
+    "en": "Will they have helped their friend?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا قبل از اینکه من بیام میری کنسرت ؟",
+    "en": "Will you have gone to the concert before I come?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "بخاطر اینکه سرم شلوغه، به جای من به برنامه میری؟",
+    "en": "Will you have attended the program because of my busy schedule?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا تا زمان رسیدنت، رابین تو جلسه بهمون میپیونده ؟",
+    "en": "Will Robin have joined us at the meeting until you reach?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از شروع کلاس، برای انجام کارها بهش کمک میکنی ؟",
+    "en": "Will you have helped him to do the task before the class starts?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا اونا قبل از شروع بازی، از موسیقی لذت میبرن ؟",
+    "en": "Will they have enjoyed the music before the game show starts?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا جمعه قرارداد رو می‌نویسی؟",
+    "en": "Will you have written the contract by Friday?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا از تور برگشتن ؟",
+    "en": "Will they have returned from the tour?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا مدیر مدرسه با درخواستش برای برگزاری یه رویداد ورزشی موافقت میکنه ؟",
+    "en": "Will the principal have approved his application for organizing a sports event?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا بیرون دفتر وایستن ؟",
+    "en": "Will they have stood outside an office?",
+    "type": "question",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "چرا اون قبل از ماه ژوئن ازدواج می‌کنه؟",
+    "en": "Why will you have studied all the English verb tenses by tomorrow ?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "چرا هوا تا ماه مه سردتر میشه ؟",
+    "en": "Why will it have got colder by May ?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "چرا اون دوچرخشو با سرعت 135 مایل در ساعت نمیرونه؟",
+    "en": "Why won’t he have driven his bike at the speed of 135mph ?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "چرا اون قبل از ژوئن ازدواج کرده ؟",
+    "en": "Why will he have got married before June ?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا پایانِ امروز چی کار میکنی ؟",
+    "en": "What will you have done by the end of today?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "چطوری؟",
+    "en": "How?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا فردا چطوری به زادگاهمون خواهیم رفت؟",
+    "en": "How will we have gone to our hometown by tomorrow ?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "کجا؟",
+    "en": "Where?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا وقتی که ما برسیم، مهمونا کجا جمع میشن ؟",
+    "en": "Where will the guests have gathered by the time we arrive ?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "کی؟ چه‌زمانی؟",
+    "en": "When?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "سام چه موقع نوشتن این کتابو تموم میکنه ؟",
+    "en": "When will Sam have finished writing this book?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "کِی کارتون رو ترک میکنید ؟",
+    "en": "When will they have left their jobs?",
+    "type": "wh",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "وقتی به لس آنجلس رسیدیم باید استراحت کنیم، چون حدود 800 مایل رانندگی کردیم .",
+    "en": "When we arrive in Los Angeles we'll need to rest, because we will have driven about 800 miles .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا زمانی که شما برسید، من یه چیز دیدنی پختم و شام روی میز منتظرتون خواهد بود .",
+    "en": "By the time you arrive, I will have cooked something spectacular and dinner will be on the table waiting for you.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "وقتی سال آینده به انگلیس سفر کنم، بیش از چهار سال زبان انگلیسی رو مطالعه میکنم ، پس فکر         می کنم آماده باشم .",
+    "en": "When I travel to England next year I will have studied English for over four years, so I think I'll be ready.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "خواهش میکنم ساعت 8 بیا. تا اون موقع، تکالیفمو تمام کردم و می تونیم بریم بیرون .",
+    "en": "Please, come at 8. By that time, I 'll have finished my homework and we can go out.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ما هر هفته در حال بازدید از یه شهر جدید هستیم. تا پایان تابستون، از تمام شهرهای مهم اروپا بازدید خواهیم کرد .",
+    "en": "We are visiting a new city every week. By the end of the summer, we will have visited all the most important cities in Europe.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "شما صورتحسابو تا زمان رسیدن کالا دریافت خواهید کرد.",
+    "en": "You 'll have received the bill by the time the item arrives.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ملیسا و مایک خسته خواهند شد. اونا 24 ساعت نخوابیدن .",
+    "en": "Melissa and Mike will be exhausted. They will not have slept for 24 hours.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "سپتامبر برامون جوابه . لیزا تا اون زمان فارغ التحصیل نخواهد شد .",
+    "en": "September works for us. Lisa will not have graduated by then.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "من به شما اجازه ورود میدم. تا زمانی که شما وارد بشید، با کلیدا میرسم .",
+    "en": "I will let you in. I will have arrived with the keys by the time you come in.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا زمانی که دستورات وارد بشن، رئیس اونجارو ترک خواهد کرد .",
+    "en": "The boss will have left by the time the orders come in.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "لیندا ساعت 8 اینجا رو ترک کرده  .",
+    "en": "At eight o’clock Linda will have left.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا قبل از رسیدن ما به اونجا اونا هنوز صبحانه نخوردن .",
+    "en": "They won’t have eaten breakfast before we get there .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا تا قبل از مهمانی تزئین اتاقو تموم نمیکنن .",
+    "en": "They won’t have finished decorating the room before the party .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از ساعت ۳ بعد از ظهر درس هامو میخونم .",
+    "en": "I will have studied my lessons before 15:00 .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از آگوست ۲۰۱۹ معلم زبان ماهری میشم  .",
+    "en": "By August 2019, I will have become a great English teacher .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از اینکه  برسیم، اونجارو ترک میکنن .",
+    "en": "By the time we get there, they will have left .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "هفته دیگه تا این موقع، علی اینجارو برای سفرش ترک میکنه .",
+    "en": "By this time next week, Ali will have left for his trip",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا سه روز دیگه، ماموریت خودمونو تموم میکنیم .",
+    "en": "Three days from now, we will have finished our duty.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "نیمه شب، مهماونی تموم میشه .",
+    "en": "At midnight, the party will have ended .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا ساعت ده شب شامتو میخوری ؟",
+    "en": "Will you have eaten your dinner until 10 P.M ?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "رضا تا پایان کنسرت نمیرسه .",
+    "en": "Reza will not have arrived by the time the concert is over .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "زمانی که به چین سفر کنم، پنجمین کشوری میشه که در اون هستم .",
+    "en": "When I travel to China, I will have been to five countries .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "خواهرم تا قبل از مهمونی سرویس بهداشتی رو تمیز خواهد کرد .",
+    "en": "My sister will have cleaned the bathroom before the party .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "به محض اینکه کسی این کمدو بخره، تموم اسباب و وسایلی رو که می خواستم از دستشون خلاص بشم رو فروختم .",
+    "en": "As soon as someone buys this closet, I will have sold all the furniture I wanted to get rid of.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا قبل از دوشنبه پروژه رو تموم میکنم .",
+    "en": "I will have finished the project by Monday .",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا هفته دیگه صندلی جدیدی خواهم ساخت .",
+    "en": "I will have made a new chair until next week.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "ماشین رو تا قبل از ساعت ۱۰ تعمیر خواهم کرد .",
+    "en": "I will have repaired the car by 10:00.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "خدمتکار میزها را قبل از شام تمیز خواهد کرد .",
+    "en": "The waiter will have cleaned the tables before dinner.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "سرآشپز قبل از مهمانی ناهارو خواهد پخت.",
+    "en": "Chef will have cooked the lunch before the party.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "زمانی که اولین کارم رو شروع کنم، از دانشگاه فارغ التحصیل میشم .",
+    "en": "By the time I start my first job, I will have graduated from university.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "شب که به خونه برسی دو ساعت روی تکالیفم کار می کنم .",
+    "en": "I will have been working on my homework for two hours when you get home at night.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "وقتی پدرش ماه های آینده بازنشسته بشه ، 25 سال تو این شرکت کار کرده .",
+    "en": "When her dad retires next months, he will have worked for the company for 25 years.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "نگران نباش، او تا اون موقع دوچرخه رو تعمیر میکنه .",
+    "en": "Don’t worry, he will have repaired the bike by then.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون احتمالا متوجه میشه که دوچرخش خراب شده ..",
+    "en": "He will probably have noticed that his bike is broken.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا اونا به دوست خودشون کمک میکنن؟",
+    "en": "Will they have helped their friend?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا قبل از اینکه من بیام میری کنسرت ؟",
+    "en": "Will you have gone to the concert before I come?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "هیچ چیزی در مورد برنامم بهت نمیگم .",
+    "en": "I won’t have said anything to you about my plan.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اون به خونش نمیرسه .",
+    "en": "He won't have reached his home.",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "بخاطر اینکه سرم شلوغه، به جای من به برنامه میری؟",
+    "en": "Will you have attended the program because of my busy schedule?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا فردا چطوری به زادگاهمون خواهیم رفت؟",
+    "en": "How will we have gone to our hometown by tomorrow ?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "قبل از شروع کلاس، برای انجام کارها بهش کمک میکنی ؟",
+    "en": "Will you have helped him to do the task before the class starts?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "سام چه موقع نوشتن این کتابو تموم میکنه ؟",
+    "en": "When will Sam have finished writing this book?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا اونا قبل از شروع بازی، از موسیقی لذت میبرن ؟",
+    "en": "Will they have enjoyed the music before the game show starts?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا جمعه قرارداد رو می‌نویسی؟",
+    "en": "Will you  written the contract by Friday?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا از تور برگشتن ؟",
+    "en": "Will they have returned from the tour?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "سام چه موقع نوشتن این کتابو تموم میکنه ؟",
+    "en": "When will Sam have finished writing this book?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "تا پایانِ امروز چی کار میکنی ؟",
+    "en": "What will you have done by the end of today?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "کِی کارتون رو ترک میکنید ؟",
+    "en": "When will they have left their jobs?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "آیا مدیر مدرسه با درخواستش برای برگزاری یه رویداد ورزشی موافقت میکنه ؟",
+    "en": "Will the principal have approved his application for organizing a sports event?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  },
+  {
+    "fa": "اونا بیرون دفتر وایستن ؟",
+    "en": "Will they have stood outside an office?",
+    "type": "practice",
+    "tense": "Future Perfect"
+  }
+]

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="./assets/bootstrap-4.0.0-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css">
+    <link rel="stylesheet" href="./assets/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="./assets/style.css">
+    <script src="./assets/bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
+    <script src="./assets/index.js"></script>
+    <title>File Input</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgb(118, 118, 118) !important;">
+        <div class="container">
+            <a class="navbar-brand" href="#">English Test</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <select  class="form-control" id="selectType" onchange="selectType(this)">
+                            <option value="undefined">Choose a Type</option>
+                        </select>
+                    </li>
+                    <li class="nav-item active">
+                        <select  class="form-control" id="selectTense" onchange="selectTense(this)">
+                            <option value="undefined">Choose a Tense</option>
+                        </select>
+                    </li>
+                </ul>
+            </div>
+            </div>
+    </nav>
+    <div class="space-20"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div id="myProgress">
+                            <div id="myBar"></div>
+                          </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div id="upload-container">
+                                <p>Please upload your data.json file</p>
+                                <input type="file" id="fileInput">
+                            </div>
+                            
+                        </div>                
+                        <div class="col-md-4">
+                            <div class="card-body">
+                                <div class="flip-card">
+                                    <div id="answer-container" class="flip-card-inner">
+                                      <div class="flip-card-front">
+                                        <img src="assets/img/67088-tecnologia-play-google-icons-computer-translation-translate.png" alt="Avatar" style="width:300px;height:300px;">
+                                      </div>
+                                      <div class="flip-card-back">
+                                        
+                                        <h3 id="answer"></h3>
+                                      </div>
+                                    </div>
+                                  </div>                          
+                            </div>        
+                        </div>
+                        <div class="col-md-8" style="display: flex;
+                        align-content: center;
+                        justify-content: center;
+                        flex-wrap: nowrap;
+                        flex-direction: column;
+                    ">
+                    <h3 id="tense"></h2>
+                    <h3 id="type"></p>
+                            <h3 style="direction: rtl; text-align: right;" id="question"></h3>
+                        </div>
+                    </div>
+                    <div class="space-10"></div>
+                    <div class="buttons">
+           
+                        <button onclick="getData()" type="button" class="btn btn-primary">Question</button>
+                        <button onclick="getAnswer()" type="button" class="btn btn-secondary">Answer</button>
+                </div>
+                <div class="space-10"></div>
+
+                  </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!-- Footer -->
+    <footer class="footer">
+
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">© 2020 Copyright:
+            <a href="/"> Hamzeh Mohammad Hosseini </a>
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+    
+</body>
+
+</html>

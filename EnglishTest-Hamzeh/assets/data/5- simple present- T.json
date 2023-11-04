@@ -1,0 +1,1034 @@
+[
+  {
+    "fa": "من زیاد قهوه میخورم",
+    "en": "I drink coffee too much",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من یه دوچرخه میخوام.",
+    "en": "I want a bike.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من یک لپ تاپ جدید احتیاج دارم.",
+    "en": "I need a new laptop.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "تو میخوای ناهار رو در رستوران بخوری.",
+    "en": "You want to eat lunch in a restaurant.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "تو عاشق نواختن پیانو هستی",
+    "en": "You love playing the piano",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "تو با بی اعتنایی به حرفای من گوش می دی",
+    "en": "You listen to my words carelessly.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "تو هر روز به باشگاه میری.",
+    "en": "You go to gym every day.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او عصر دوستاش رو میبینه",
+    "en": "He meets his friends in the evening.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او در مدرسه موسیقی گوش می ده",
+    "en": "He listens to music at school.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "جان در بانک کار می‌کند.",
+    "en": "John works in a bank.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او ساعت نه شب شام میخوره",
+    "en": "She eats dinner at 9 P.M.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او فقط ماهی میخوره",
+    "en": "She only eats fish.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "مری در روزهای دوشنبه انواع مختلفی سوپ میپزه",
+    "en": "Mary cooks different types of soups on Mondays",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "(این)به آب زیادی نیاز دارد",
+    "en": "It needs lots of water.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "زمین دور خورشید می‌چرخد.",
+    "en": "The Earth revolves around the Sun.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "آب در دمای صفر درجه یخ می‌زند.",
+    "en": "Water freezes at zero degrees.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "گربه از این کاسه آب می خوره",
+    "en": "The cat drinks water from this bowl.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ما برای دسر بستنی میخوایم.",
+    "en": "We want ice-cream for dessert.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من و جان(ما)هر سه شنبه تنیس بازی می کنیم",
+    "en": "John and I play tennis every Tuesday.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا باهم به سینما میرن.",
+    "en": "They go to the cinema together.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "آن‌ها همدیگرو به خوبی میشناسن.",
+    "en": "They know each other very well.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "خانواده ی براون ما رو برای شام به خانه خود دعوت میکنن.",
+    "en": "The browns invite us to their house for dinner.",
+    "type": "positive",
+    "tense": "simple present"
+  },
+  {
+    "fa": "نمی‌خوام تکلیفمو انجام بدهم",
+    "en": "I don't want to do my homework",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "از پنیر خوشم نمیاد.",
+    "en": "I don’t like cheese.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چاییتو نمیخوری",
+    "en": "You don’t drink your tea.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "نیازی نیست به من اثباتش کنی",
+    "en": "You don’t need to prove it to me.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "برادرم هرروز میوه نمیخوره",
+    "en": "My brother doesn’t eat fruit every day.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "برادرم عصرا زبان انگلیسی نمیخونه",
+    "en": "My brother doesn't study English in the afternoon.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "پسرعموت تکالیفشو عصر انجام نمیده",
+    "en": "Your cousin doesn't do homework in the afternoon.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او هیچ وقت ساعت 10 نمیخوابه.",
+    "en": "She never sleeps at 10.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "خواهرم صبحا زود بیدار نمیشه",
+    "en": "My sister doesn't wake up early.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "پائولین نمیخواد کیک رو با کسی تقسیم کنه.",
+    "en": "Pauline does not want to share the pie.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ما همه مون تو اتاق غذاخوری شام نمیخوریم.",
+    "en": "We all don't have dinner in the dining room.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "جسیکا و هری نمی‌خواهند تا زمانی که بتوانند خانه‌ای بخرند، ازدواج کنند.",
+    "en": "Jessica and Harry don't want to get married until they can afford a house.",
+    "type": "negative",
+    "tense": "simple present"
+  },
+  {
+    "fa": "خوب بنظر میرسم؟",
+    "en": "Do I look good?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "تو پیانو می‌زنی؟",
+    "en": "Do you play the piano?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "میدونی چطوری کیک بپزی؟",
+    "en": "Do you know how to bake a pie?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "نیازه بری کلاس؟",
+    "en": "Do you need to go to the class?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "جک فوتبال بازی میکنه؟",
+    "en": "Does Jack play football?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او همه چیزو بهت میگه؟",
+    "en": "Does he tell you everything?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او دوچرخه خریده؟",
+    "en": "Does he buy a bike?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کارولین من رو به یاد داره؟",
+    "en": "Does Carolyn remember me?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او هر روز به مدرسه میره؟",
+    "en": "Does she go to school every day?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او واست کلاه جدید میخره؟",
+    "en": "Does she buy you a new hat?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "شما میرید پارک؟",
+    "en": "Do you go to park?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا همدیگر رو می‌شناسن؟",
+    "en": "Do they know each other?",
+    "type": "question",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کی؟ چه‌کسی؟",
+    "en": "Who?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "فکر میکنی کی هستی؟",
+    "en": "Who do you think you are?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "با چه کسی ملاقات میکنی؟",
+    "en": "Who do you meet?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه کسی کارهای خونه رو در خانواده شما انجام میده؟",
+    "en": "Who does the chores in your family?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ما با چه کسی میریم؟",
+    "en": "Who do we go with?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا با چه کسی حرف میزنن؟",
+    "en": "Who do they speak to?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه کسی ویولن مینوازه؟",
+    "en": "Who plays the violin?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه کسی در لندن زندگی می‌کند؟",
+    "en": "Who lives in London?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه کسی را؟",
+    "en": "Whom?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "داری با کی حرف میزنی؟",
+    "en": "Whom do you talk to?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه چیزی؟ چه؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "بیشتر از همه به چه چیزی احتیاج داری؟",
+    "en": "What do you need the most?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه چیزی برام اوردی؟",
+    "en": "What do you bring for me?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "شغل جیک چه؟",
+    "en": "What does Jake do?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او در مورد شما چه می گوید؟",
+    "en": "What does he say about you?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "رئیس ات بعنوان بازخورد چی بهت میگه؟",
+    "en": "What does your boss say to you as a feedback?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او هر روز در چه چیزی چرخ میزنه؟",
+    "en": "What does she surf every day?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "برای گرفتن جایزه به چه چیزایی نیاز داریم؟",
+    "en": "What do we need to get the prize?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ما بهشون چه هدیه میدیم؟",
+    "en": "What do we give them as a gift?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا در مورد کار من چی میگن؟",
+    "en": "What do they say about my work?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا بعنوان ورزش چی بازی میکنن؟",
+    "en": "What do they play as a sport?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا به چند زبان صحبت میکنن؟",
+    "en": "What kind of language do they speak?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه ساعتی میرسی خونه؟",
+    "en": "What time do you get home?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا؟",
+    "en": "Where?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا میتونم سوار مترو شم؟",
+    "en": "Where do I get the subway?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا باید گاز رو پرداخت کنم؟",
+    "en": "Where do I pay for the gas?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا خمیر دندون بخرم؟",
+    "en": "Where do I buy toothpaste?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا زندگی میکنی؟",
+    "en": "Where do you live?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا می‌خوای غذا بخوری؟",
+    "en": "Where do you want to eat lunch?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او اهل کجاست؟",
+    "en": "Where does he come from?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا ماشینشو پارک کرد؟",
+    "en": "Where does she park her car?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "هواپیما به کجا پرواز میکنه؟",
+    "en": "Where does the airplane fly to?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "خورشید از کدام طرف طلوع میکنه؟",
+    "en": "Where does the sun rise?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا کیفامونو بگیریم؟",
+    "en": "Where do we get our bags?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کجا اون خانم رو دیدیم؟",
+    "en": "Where do we see that woman?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "جک و جو کجا زندگی می‌کنند؟",
+    "en": "Where do Jack and Joe live?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا کجا کار میکنن؟",
+    "en": "Where do they work?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کی؟ چه زمانی؟",
+    "en": "When?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "تو معمولا چه ساعتی بیدار می‌شوی؟",
+    "en": "When do you usually get up?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اون هر روز کی میرسه اینجا؟",
+    "en": "When does he arrive here every day?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کی میرسی خونه؟",
+    "en": "When do you get home?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "مامانت کی میره خرید؟",
+    "en": "When does your mom go shopping?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کی بسکتبال بازی میکنین همیشه؟",
+    "en": "When do you usually play basketball?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چطور؟",
+    "en": "How?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چطوری (با چی) میری سرکار؟",
+    "en": "How do you get to work?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چاییت رو چطور مینوشی؟",
+    "en": "How do you drink tea?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چندتا لباس داری؟",
+    "en": "How many shirts do you have?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چقدر کیک دوست داری؟",
+    "en": "How much do you love cake?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او چقدر سریع میدوه؟",
+    "en": "How fast does he run?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اون دوست داره چطوری کار کنه؟",
+    "en": "How does she like to work?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "هزینه ی این بلیط چقدره؟",
+    "en": "How much does the ticket cost?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه مدت میمونیم تو این هتل؟",
+    "en": "How long do we stay in the hotel?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا هرچند وقت به باشگاه میرن؟",
+    "en": "How often do they go to gym?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "مال چه کسی؟",
+    "en": "Whose?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من به نظر کی اهمیت میدم؟",
+    "en": "Whose opinion do I care about?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "از تلفن کی استفاده میکنی؟",
+    "en": "Whose cellphone do you use?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا ماشین چه کسی رو میرونن؟",
+    "en": "Whose car do they drive?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کدام؟",
+    "en": "Which?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کدوم ماشین رو میخوای؟",
+    "en": "Which car do you want?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کدوم بازی رو شما دوس دارین بازی کنین؟",
+    "en": "Which game do you like to play?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او به کدوم خونه میره؟",
+    "en": "Which home does he go?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او تو کدوم شهر کار میکنه؟",
+    "en": "Which city does she work in?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا واسه نهار به کدوم رستوران میرن؟",
+    "en": "Which restaurant do they go for lunch?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "بچه ها از کدام یک از حیوانات بیشتر خوششون میاد؟",
+    "en": "Which animal do the children like the most?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا؟",
+    "en": "Why?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا هیچوقت به تعطیلات نمیری؟",
+    "en": "Why don’t you ever go on vacation?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا به گوشی او نیاز داری؟",
+    "en": "Why do you need her phone?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا این موضوع را جدی می گیری؟",
+    "en": "Why do you take this seriously?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا همیشه چراغ ها رو خاموش می کنه؟",
+    "en": "Why does he always turn off the lights?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا او معمولا اینقدر دیر با مشتریان ملاقات می کند؟",
+    "en": "Why does she usually meet clients so late?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا بث همیشه اینقدر شاکیه؟",
+    "en": "Why does Beth always complain so much?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا سگ ها استخون دوست دارن؟",
+    "en": "Why do the dogs like bones?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا ما به اینجا میایم؟",
+    "en": "Why do we come here?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا باید بریم؟",
+    "en": "Why do we need to go?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا دخترشون رو به بیمارستان میارن؟",
+    "en": "Why do they bring their daughter to the hospital?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چرا اینقدر از سیاست حرف می زنن؟",
+    "en": "Why do they talk about politics so much?",
+    "type": "wh",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من در لندن کار میکنم",
+    "en": "I work in London.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من هر هفته فوتبال بازی میکنم",
+    "en": "I play football every weekend.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ریتا معمولا چه زمانی از خواب بلند میشه؟",
+    "en": "When does Rita usually get up?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "چه کسی در ایران زندگی میکنه؟",
+    "en": "Who lives in Iran?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "آیا در خانه یا آپارتمان زندگی می کنید؟",
+    "en": "Do you live in a house or a flat?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من شنبه ها تو کافه کار میکنم.",
+    "en": "I work in a café on Saturdays",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او برای مطالعه به اینجا میاد",
+    "en": "she come here to study.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من تنیس رو دوست دارم اما فوتبال رو دوست ندارم",
+    "en": "I like tennis but I don't like football.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا آخر هفته کار نمیکنن",
+    "en": "They don't work at the weekend.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "جان در منچستر زندگی نمیکنه",
+    "en": "John doesn't live in Manchester.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "بدن انسان دارای 206 استخوان است",
+    "en": "The human body contains 206 bones.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من گاهی به سینما میرم",
+    "en": "I sometimes go to the cinema.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اگر بارون بباره خیس میشیم",
+    "en": "If it rains, we'll get wet.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او نمیاد مگر اینکه ازش بخواید",
+    "en": "He won't come unless you ask him.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ترم مدرسه از هفته آینده شروع میشه",
+    "en": "The school term starts next week.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "قطار ساعت 19:45 عصر امروز حرکت میکنه",
+    "en": "The train leaves at 19.45 this evening.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "هفته آینده به پاریس پرواز می کنیم",
+    "en": "We fly to Paris next week.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "هری پاتر به مدرسه هاگوارتز میره",
+    "en": "Harry Potter goes to Hogwarts School.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "کدوم دانشگاه میره؟",
+    "en": "Which university does he go to?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "نظرش در مورد فوتبال چیه؟",
+    "en": "What does he think about football?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او چند وقت یکبار بازی میکنه؟",
+    "en": "How often does he play?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "آیا او برادر یا خواهری داره؟",
+    "en": "Does he have any brothers or sisters?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "هفته ای دو بار یوگا انجام میدم",
+    "en": "I do yoga twice a week.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او برای بهترین دوستش ایمیل مینویسه",
+    "en": "She writes an e-mail to her best friend.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اینجا معمولا هر روز بارون میباره",
+    "en": "It usually rains every day here.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "خورشید از مشرق طلوع میکنه",
+    "en": "The sun rises at the east.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ما هر یکشنبه به گالری میرویم",
+    "en": "We go to a gallery every Sunday.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "آیا ما همدیگرو می شناسیم؟",
+    "en": "Do we know each other?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ما هر روز آشپزی میکنیم",
+    "en": "We cook every day.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ما عموماً همه با هم آهنگ میخونیم.",
+    "en": "We generally sing songs all together.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "زمین به دور خورشید می چرخد.",
+    "en": "The earth goes around the sun.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من خواندن داستان های پلیسی رو دوست دارم.",
+    "en": "I like reading detective stories.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "معمولا چه زمانی باهم صحبت میکنن؟",
+    "en": "When do they usually talk to each other?",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او دوشنبه ها آلمانی نمیخونه",
+    "en": "She doesn’t study German on Monday.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "‌او ریاضی درس نمیده",
+    "en": "He doesn’t teach math.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "مادرم هرگز دروغ نمیگه",
+    "en": "My mother never lies.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "در روسیه در زمستان برف زیادی می بارد",
+    "en": "It snows a lot in winter in Russia.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "من ویولن مینوازم",
+    "en": "I play violin",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او میخواد دندانپزشک بشه",
+    "en": "She wants to be a dentist.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "گربه من خیلی سریع میدوه",
+    "en": "My cat runs very fast.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "اونا هیچ پولی ندارن",
+    "en": "They don’t have any money.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "او هر روز صبح سوار قطار میشه",
+    "en": "He catches the train every morning.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "خواهرم در تئاتر کار می کنه",
+    "en": "My sister works at the theater.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "ملکه انگلیس در کاخ باکینگهام زندگی می کنه",
+    "en": "The Queen of England lives in Buckingham Palace.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "جولی خیلی سریع صحبت می کند",
+    "en": "Julie talks very fast.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "هر روز صبح قهوه می خوریم",
+    "en": "We drink coffee every morning.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "سگ برادرم زیاد پارس می کنه",
+    "en": "My brother’s dog barks a lot.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "پدر من هیچ وقت آخر هفته ها کار نمی کنه",
+    "en": "My Dad never works on the weekends.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "مری روزی دو بار مسواک میزنه.",
+    "en": "Mary brushes her teeth twice a day.",
+    "type": "practice",
+    "tense": "simple present"
+  },
+  {
+    "fa": "آیا خوک ها شیر دوست دارند؟",
+    "en": "Do pigs like milk?",
+    "type": "practice",
+    "tense": "simple present"
+  }
+]

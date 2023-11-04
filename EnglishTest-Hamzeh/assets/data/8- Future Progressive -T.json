@@ -1,0 +1,722 @@
+[
+  {
+    "fa": "من امروز عصر دارم ایمیل می نویسم.",
+    "en": "I'll be writing emails this evening.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "من هفته آینده در شرکت جدید در حال کار کردن خواهم بود.",
+    "en": "I'll be working at the new company next week.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "تا دو ماه دیگه در حال خوردن طبق رژیم غذایی گیاهی خواهم بود.",
+    "en": "In two months, I will be eating a plant-based diet.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا ساعت 5 بعد از ظهر دارم انگلیسی میخونم.",
+    "en": "I'll be studying English tomorrow at 5 p.m.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا ظهر دارم یه جایی تو یه ساحل استراحت میکنم.",
+    "en": "At noon tomorrow, I will be relaxing on a beach somewhere.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "سعی میکنم تشخیص بدم لباس چی خواهی پوشید؟",
+    "en": "I'll try my best to spot you. What will you be wearing?",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او تا زمانی که پدرش در دوران نقاهت است، چند ماه پیش والدینش خواهد ماند.",
+    "en": "He'll be staying with his parents for several months while his father is in recovery.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "جان دوشنبه ی اینده در حال رنگ زدن اتاقش خواهد بود",
+    "en": "John will be painting his room next Monday.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او در حال دیدن چارلز، یک مستمری بگیر خوش قیافه رو که هفته گذشته در آنجا ملاقات کرد، خواهد بود",
+    "en": "He will be seeing Charles, a good-looking pensioner she met there last week.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا در این زمان، در حال پرواز به نیویورک خواهد بود",
+    "en": "At this time tomorrow, she'll be flying to New York.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "یک ساعت دیگه با دوستانش سر میز غذا میشینن.",
+    "en": "In an hour, she will be sitting at her table with her friends.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "شهربازی اخر امسال قیمت بلیط هارو داره افزایش میده",
+    "en": "The amusement park will be increasing ticket prices later this year.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "وقتی برسم بانگوگ، احتمالا داره بارون میباره.",
+    "en": "It will probably be raining when I reach Bangkok.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "تا یک ساعت دیگه بر فراز اقیانوس اطلس داریم پرواز میکنیم.",
+    "en": "In an hour, we will be flying over the Atlantic.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "الان نمیتونیم بریم خونه ی برادرت، بچه ها درحال خواب خواهند بود.",
+    "en": "We can't go to your brother's house now. The children will be sleeping",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "هفته ی اینده در حال اومدن هستیم.",
+    "en": "We’ll be coming next weekend",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "انها یکشنبه در حال رفتن به سینما هستن.",
+    "en": "They will be going to the movies on Saturday",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اگر دیر برم خونه بچه ها در حال خواب خواهند بود.",
+    "en": "The children will be sleeping when I get home later.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "وقتی من فردا شب برسم اونا دارن میخوابن.",
+    "en": "They will be sleeping when I arrive there at tomorrow night.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اونا فردا این موقع دارن میان.",
+    "en": "They will be coming here tomorrow at this time.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اونا ساعت 8 شب دارن میرن استانبول.",
+    "en": "They will be leaving for Istanbul at 8:00 in the evening.",
+    "type": "positive",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "هفته ی بعدی، در این ساعت دیگه برای شرکت در حال کار کردن نیستم.",
+    "en": "At this time next week, I won’t be working for this company anymore.",
+    "type": "negative",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "وقتی تو سفری، در حال فکر کردن به من نخواهی بود ( به من فکر نخواهی کرد)",
+    "en": "You won’t be thinking about me while you are on a trip.",
+    "type": "negative",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "این هفته در حال کار کردن نیستی",
+    "en": "You won’t be working this week.",
+    "type": "negative",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اینجا رو تا فردا ترک نمیکنه.",
+    "en": "She won’t be leaving here until tomorrow.",
+    "type": "negative",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اون درحال گوش دادن به موسقی نخواهد بود",
+    "en": "He will not be listening to the music.",
+    "type": "negative",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "تو هتل روزولت نخواهیم موند",
+    "en": "We won’t be staying at Roosevelt hotel.",
+    "type": "negative",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "در حال پرواز به هند نخواهیم بود",
+    "en": "We won’t be flying to India.",
+    "type": "negative",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا تا 2ماه دیگه داری رژیم غذایی گیاهی  میگیری؟",
+    "en": "Will you be eating a plant-based diet in two months?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "داری تا خونه امروز عصر پیاده میری؟",
+    "en": "Will you be walking home this afternoon?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "طبق معمول داری با ماشین میری سرکار؟",
+    "en": "Will you be driving to work as usual?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "کسی رو هم با خودت داری میبری؟",
+    "en": "will you be taking anyone with you?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "قراره بیشتر از یه هفته بمونی نیویورک؟",
+    "en": "Will you be staying at New York for over a week?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا او هفته ی اینده داره از پسرعموهاش مراقب میکنه؟",
+    "en": "Will she be babysitting her cousins next week?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "آیا او در حال بازید از ساختمان امپراطوری است؟",
+    "en": "Will she be touring empire state building?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا او فردا شب در حال درس خوندنه؟",
+    "en": "Will she be studying tomorrow night?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا او با زنش  داره میره مسافرت؟",
+    "en": "Will he be traveling with his wife?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا او  داره سعی میکنه اوقات خوشی داشته باشه؟",
+    "en": "Will he be trying have a good time?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا ما با قطار داریم میریم شیکاگو؟",
+    "en": "Will we be taking train to Chicago?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا ما به جاهای مختلفی داریم میریم؟",
+    "en": "Will we be going to various places?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا خانوادت امشب برای ما غذا دارن درست میکنن؟",
+    "en": "Will your parents be cooking dinner for us tonight?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا اونا دارن شطرنج بازی میکنن؟",
+    "en": "Will they be playing chess?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ایا اونا فردا شب این موقع دارن میخوابن؟",
+    "en": "Will they be sleeping this time tomorrow?",
+    "type": "question",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "کی؟ چه‌کسی؟",
+    "en": "Who?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چه کسی رو دو ماه اینده داری ملاقات میکنی؟",
+    "en": "Who will you be visiting in the next two weeks?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او چه کسی داره با خودش به سفر دور دنیا میبره؟",
+    "en": "Who will she be taking to travel the world?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "کی را؟ چه‌کسی را؟",
+    "en": "Whom?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا این موقع داری به چه کسی جواب میدی ؟",
+    "en": "Whom will you be answering to the next day at this time?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چرا؟",
+    "en": "Why?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چرا این همه پیام داره برات میفرسته؟",
+    "en": "Why will she be sending so many messages to you?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چرا تا یک ساعت بعد با شما داره تماس می گیره؟",
+    "en": "Why will he be calling you for the next hour?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چرا اونا تا سه ساعت دیگه اونجا وایمیستن؟",
+    "en": "Why will they be standing there for the next three hours?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ساعت سه عصر داری چیکار میکنی؟",
+    "en": "What will you be doing at 3 p.m.?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "سوزان واسه چی داره صبر میکنه؟",
+    "en": "What will Susan be waiting?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چطوری؟",
+    "en": "How?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چه مدت در این هتل قراره بمونی؟",
+    "en": "How long will you be staying at this hotel?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چند بار داره پولارو میشماره؟",
+    "en": "How many times will she be counting the money?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او در این زمان از ماه چقدر وقت داره؟",
+    "en": "How much time will she be having at this time of month?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "کجا؟",
+    "en": "Where?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "امشب کجا میخوابی؟",
+    "en": "Where will you be sleeping tonight?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او کجا در لندن اقامت داره؟",
+    "en": "Where will he be staying in London?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا این ساعت برای شام دارن کجا میرن؟",
+    "en": "Where will they be going for dinner tomorrow at this time?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "کی؟ چه‌زمانی؟",
+    "en": "When?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "چه زمانی در کنسرت در حال خوندنی؟",
+    "en": "When will you be singing in the concert?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "استیو کی از دلهی در حال برگشتنه؟",
+    "en": "When will Steve be coming back from Delhi?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "کدام؟",
+    "en": "Which",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "در این زمان برای کار داری به کدام سمت میری؟",
+    "en": "Which way will you be going for work at this time?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "کی؟ چه‌کسی؟",
+    "en": "Who?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "در این ساعت چه کسی درحال انتظار برای تو خواهد بود؟",
+    "en": "Who will be waiting for you at this hour?",
+    "type": "wh",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "گردشگران در حال صحبت کردن به فرانسوی خواهند بود.",
+    "en": "The tourists will be speaking the French language.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او دستش رو محکم خواهد گرفت",
+    "en": "He will be holding her hand tightly.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "من دو ساعت دیگه در حال شنا کردن خواهم بود",
+    "en": "I will be swimming 2 hours later.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا ساعت شیش، اداره رو دارم ترک میکنم و به خونه میرم.",
+    "en": "At 6 o’clock tomorrow, I will be leaving my office and heading to the house.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "این موقع هفته ی دیگه، یکی از بهترین نمایشگاه های معماری در دبی رو دارم میبینم.",
+    "en": "This time next week, I will be visiting one of the greatest architectural exhibitions in Dubai.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا وقتی داری با دوستات خوش میگذرونی، من دارم خونه رو تمیز میکنم.",
+    "en": "I’ll be busy all day tomorrow. When you have fun with your friends, I’ll be cleaning entire house.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "همین موقع دوشنبه ی دیگه، دارم دیوار اتاقمو رنگ میزنم.",
+    "en": "I will be painting the wall of my room this time next Monday.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا ساعت سه، دارم تو دفترم کار میکنم.",
+    "en": "At three o’clock tomorrow, I’ll be working in my office.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا ساعت هشت دارن جلسه رو برگزار میکنن.",
+    "en": "They will be attending the meeting tomorrow at 8.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "وقتی میام مدرسه همکلاسیم منتظرم خواهد بود",
+    "en": "When I come to school, my classmates will be waiting for me.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "همین موقع فردا، دارم تو کلاس درس میدم.",
+    "en": "At this time tomorrow, I’ll be teaching my class.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "همین موقع سال دیگه، دارم تو دانشگاه یورک درس میخونم.",
+    "en": "At this time next year, I’ll be studying at York University.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "همین موقع سال دیگه، دارم از کشور میرم.",
+    "en": "At this time next week, I’ll be leaving this country.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "همین موقع فردا، دارم با خانوادم نهار میخورم.",
+    "en": "At this time tomorrow, I will be having lunch with my family.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ببخشید، نمیتونم. فردا همون موقع دارم دخترمو میبرم سرکار.",
+    "en": "Sorry, I can't. I will be taking my daughter to work at that time.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا همین موقع داری خونه رو رنگ میکنی.",
+    "en": "You’ll be painting this house at this time tomorrow.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اون الان تو دانشگاه منتظر منه.",
+    "en": "She will be waiting for me at the university.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "پگی شنبه داره به جشن میاد.",
+    "en": "Peggy will be coming to the party on Saturday.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "وقتی بهش زنگ میزنی اون داره میخوابه.",
+    "en": "She will be sleeping when you telephone her.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "برنامه داره کتاب جدیدش رو شروع کنه. احتمالا کتاب جدیدش رو داره ماه اینده مینویسه.",
+    "en": "She is planning to start her new book soon. Probably she will be writing her book next month.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا ساعت هفت، داره تو نیویورک خرید میکنه.",
+    "en": "At seven o’clock tomorrow, she’ll be shopping in New York.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "تابستون بعدی، وقتی همسر و فرزندانش تعطیلاتن، اون داره انگلیسی یاد میگیره.",
+    "en": "Next summer, when his wife and his children are on holiday, he will be learning English.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "وقتی ساعت یازده شوهرش برسه خونه اون داره اشپزی میکنه.",
+    "en": "She will be cooking tomorrow at 11 when her husband arrives home.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اون تمام سال بعد رو در حال درس خوندنه. (اون تمام سال بعد رو داره درس میخونه)",
+    "en": "He will be studying all next year.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "متأسفانه سطح آب دریاها تا 20 سال آینده همچنان داره افزایش پیدا میکنه.",
+    "en": "Unfortunately, sea levels will still be rising in 20 years.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ما هفته آینده داریم میایم تا در مهمانی شرکت کنیم.",
+    "en": "We’ll be coming to take part in the party next week.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "وقتی من به مهمانی برسم، سوزان در حال صحبت کردن با مادرم خواهد بود.",
+    "en": "When I arrive at the party, Susan will be talking to my mother.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "من انتظار دارم او در حال اومدن به لندن باشه.",
+    "en": "He’ll be coming to London, I expect.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "پدرم الان باید در حال شام پختن باشد.",
+    "en": "My father will be cooking dinner now.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "تام در حال گوش دادن به اخبار خواهد بود و من در حال انجام دادن تکالیفم خواهم بود.",
+    "en": "Tom will be listening to the news; I will be doing my homework.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اگه کارمون انجام بشه مثل پادشاهان در حال جشن گرفتن خواهیم بود",
+    "en": "We will be celebrating like kings if it works.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "پنی فردا داره دوی ماراتون میره.",
+    "en": "Penny will be running the marathon tomorrow.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او داره سگش رو برای پیاده روی میبره.",
+    "en": "She will be taking her dog for a walk.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ساعت پنج عصر به ایستگاه میرسم.",
+    "en": "I will be arriving at the station by 5:00 P.M.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا صبح دارم به گیاهان اب میدم.",
+    "en": "I will be watering the plants tomorrow morning.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "رایان فردا داره به ملاقات خاله اش میره.",
+    "en": "Ryne will be visiting his aunt tomorrow.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "من به مادرم در درست کردن صبحانه دارم کمک میکنم.",
+    "en": "I will be helping my mother to make breakfast.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "این ماه سریال رو نگاه نمیکنم.",
+    "en": "I won’t be watching the series this month.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "امشب داری لباسارو میشوری؟",
+    "en": "Will you be doing laundry tonight?",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "من دارم تو کتبخونه مطالعه میکنم.",
+    "en": "I will be studying in the library.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "دوستام فردا دارن نهار میان خونمون.",
+    "en": "My friends will be coming over for lunch tomorrow.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "او در ایستگاه راه اهن درحال منظر موندن برای جان خواهد بود.",
+    "en": "She will be waiting for John at the railway station.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ساعت ده ما داریم اخبار میبینیم.",
+    "en": "We'll be watching the news at 10pm.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "فردا ساعت پنج ما اماده ایم که بریم بیرون.",
+    "en": "At five o’clock tomorrow, we’ll be getting ready to go out.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "امشب، برای ازمون انگلیسی داریم خودمون رو اماده میکنیم.",
+    "en": "Tonight, we will be cramming up for our English test.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "همین زمان هفته ی دیگه، داریم جشن میگیریم.",
+    "en": "This time next week, we will be having a party.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "همین الاناست که به بوداپست برسن.",
+    "en": "They will be arriving in Budapest just about now.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "ساعت هشت شب جمعه، اونا دارن اهنگ جدیدشون رو میخونن.",
+    "en": "At eight o’clock on Friday they will be singing the new song.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اونا امروز عصر تکالیفشون رو نمینویسن.",
+    "en": "They will not be working their homework this afternoon.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  },
+  {
+    "fa": "اونا تا یه ساعت دیگه دارن میان که به ما ملحق بشن.",
+    "en": "They will be joining us in an hour.",
+    "type": "practice",
+    "tense": "Future Progressive"
+  }
+]

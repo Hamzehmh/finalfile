@@ -1,0 +1,824 @@
+[
+  {
+    "fa": "من فایلم رو قبل از اینکه کامپیوتر خراب بشه ذخیره کردم",
+    "en": "I had saved my document before the computer crashed",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من هیچ پول نقدی نداشتم، چون کیفم رو گم کرده بودم",
+    "en": "I did not have any cash because I had lost my purse",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من قبلاً یه بار به مکزیک رفته بودم",
+    "en": "I had been to Mexico once before",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اگه اون رو دیده بودم، باخبرش می‌کردم",
+    "en": "If I had seen him, I would have told him the news",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چند لحظه قبل از اینکه بارون بباره، لباس‌ها رو بیرون پهن کرده بودم",
+    "en": "I had just put the washing out when it started to rain",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من دیر رسیدم سرکار، چون از اتوبوس جا مونده بودم",
+    "en": "I arrived at work late because I’d missed the bus",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی برادر کوچیکم از خواب پاشد، من صبحونمو خورده بودم",
+    "en": "I had eaten my breakfast, when my little baby brother got up",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "فکر کنم قبل از اینکه تماس بگیرن، تو اقساطو پرداخت کرده بودی",
+    "en": "I think you had paid for the installments before they called",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قول داده بودی دیر نکنی",
+    "en": "You had promised not to be late",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون قبلِ سال ۲۰۰۸ شرکت خودش رو تأسیس کرده بود",
+    "en": "She had established her company before 2008",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون قبل از اینکه به «تگزاس» بره، توی «کالیفرنیا» زندگی کرده بود",
+    "en": "She had lived in California before moving to Texas",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون قبل از اینکه بفهمه دستش چه مشکلی داره، پیش چند تا دکتر رفته بود",
+    "en": "She had visited several doctors before she found out what the problem was with her hand",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چند لحظه قبل از اینکه پلیس برسه، اون از اتاق خارج شده بود",
+    "en": "She had just left the room when the police arrived",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبلِ پختن شام، مامانم رفته بود خرید",
+    "en": "My mother had gone shopping before she started cooking dinner",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از اینکه شما برید اونجا، رئیس من رو باخبر کرده بود",
+    "en": "The boss had informed me before you went there",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی من رسیدم دفتر، «جان» رفته بود بیرون",
+    "en": "John had gone out when I arrived in the office",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از اینکه فارغ‌التحصیل بشه، شیش سال لندن زندگی کرده بود",
+    "en": "Before he graduated, he had been in London for six years",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون نتونست ساندویچ درست کنه چون فراموش کرده بود نون بخره",
+    "en": "He couldn't make a sandwich because he'd forgotten to buy bread",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "«مارک» خیلی خوب «فیلادلفیا» رو می‌شناخت، چون‌که پنج سال اونجا زندگی کرده بود",
+    "en": "Marc knew Philadelphia so well because he had lived there for five years",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من با دفترش تماس گرفتم، ولی او رفته بود",
+    "en": "I called his office but he'd already left",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "تا زمانی‌ که همه تموم نکرده بودن ، معلممون ورقه‌هامون رو چک نکرد",
+    "en": "The teacher didn’t check our papers until everyone had finished",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "«تد» میخواست فیلم رو ببینه، اما خیلی دیر رسید",
+    "en": "Ted had wanted to see the movie, but she arrived too late",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی رسیدم، قطار رفته بود",
+    "en": "When I arrived, the train had left",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از رسیدن ما، فیلم شروع شده بود",
+    "en": "The film had started before we arrived",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی «میگوئل» رسید، خیلی وقت بود که مهمونی شروع شده بود",
+    "en": "When Miguel arrived, the party had already started",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چند لحظه قبل از اینکه به ایستگاه برسم، قطار رفته بود",
+    "en": "The train had just left when I arrived at the station",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی من به فرودگاه رسیدم هواپیما رفته بود",
+    "en": "The plane had left by the time I got to the airport",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "ما آشپزی رو شروع کرده بودیم که اون‌ها رسیدن",
+    "en": "When they arrived we had already started cooking",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "هتل جا نداشت، برای همین خوشحال شدم که قبلاً رزرو کرده بودیم",
+    "en": "The hotel was full, so I was glad that we'd booked in advance",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چند لحظه قبل از اینکه مامانم درباره‌ی برگردوندن ماشین بهمون پیام بده، به خونه زنگ زده بودیم",
+    "en": "We had just called home when my mom texted us about returning the car",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اگه زودتر زنگ زده بودیم، نیازی نبود که اون‌همه صبر کنیم تا یه میز [توی رستوران] بهمون بدن",
+    "en": "If we had called ahead, we would not have needed to wait so long for a table",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "ما قبل از اینکه این رو بخریم ، 4 سال پیش هم یه ماشین مشکی داشتیم",
+    "en": "We had owned another black car 4 years ago before we bought this",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از اینکه پلیس برسه‌ اون‌ها مَرده رو کشته بودن",
+    "en": "They had killed the man before the police arrived",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی من رسیدم خونه، اون‌ها شام‌شون رو خورده بودن",
+    "en": "When I arrived home, they had had their dinner",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون زیباترین عکسی بود که تا به اون زمان دیده بودم",
+    "en": "It was the most beautiful photo I'd ever seen",
+    "type": "positive",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "کاش این‌قدر دیر به رختخواب نرفته بودم",
+    "en": "I wish I hadn't gone to bed so late",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "تا قبل از اینکه به جزیره بیایم، هیچ وقت همچین غروب زیبایی رو ندیده بودم",
+    "en": "I had never seen such a beautiful sunset before I went to the island",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من قبل از «جیم»، هرگز کسی رو که اهل «کالیفرنیا» باشه، ملاقات نکرده بودم",
+    "en": "I'd never met anyone from California before I met Jim",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "سال‌ها بود که به مادرم نامه‌ ننوشته بودم",
+    "en": "I had not written to my mother in years",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "تا قبلِ دیشب سه ماه میشد که با دوست‌دختر سابقم حرف نزده بودم",
+    "en": "Before last night I hadn’t spoken to my ex-girlfriend in three months",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "تو بیشتر بازی‌ها رو به‌خاطر این نبردی که تمرین نکرده بودی",
+    "en": "You didn’t win many of the games because you had not practiced",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون تا قبل از دیشب، هرگز به کنسرت ارکستر سمفونی نرفته بود",
+    "en": "She had never been to the symphony before last night",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "خانم رابینسون قبل از اینکه اون‌ها جلسه رو لغو کنن، به‌تعویقش ننداخته بود",
+    "en": "Miss Robinson hadn't postponed the meeting before they cancelled it",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "مامانم قبلا دوست‌پسرم رو ندیده بود",
+    "en": "My mother had never seen my boyfriend before",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون چون خوب نخوابیده بود، خیلی خسته بود",
+    "en": "He was very tired because he hadn't slept well",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون تا قبل از هفته‌ی پیش، هیچ‌وقت فوتبال بازی نکرده بود",
+    "en": "He had never played soccer until last week",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون قبلا اون کشور رو ندیده بود",
+    "en": "He hadn’t visited that country before",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "کسی اینجا نبوده که بخواد پنجره رو باز کنه",
+    "en": "Nobody had been here to open the window",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبلِ اینکه تو توی مهمونی رایان رو بهمون معرفی کنی، آنتونی دیده بودش",
+    "en": "Anthony had met Ryan before you introduced him to us at the party",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "دیروز دیر از خواب بیدار شدم و از اتوبوس جا موندم، چون‌که ساعتم زنگ نخورده بود",
+    "en": "Yesterday I woke up late and missed the bus because my alarm hadn’t rung",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از جلسه، توی خیابون اصلی تصادف شده بود",
+    "en": "Before the meeting, an accident had occurred in the main street",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "ما نتونستیم شب رو توی هتل بمونیم، چون از قبل هتل رو رزرو نکرده بودیم",
+    "en": "We were not able to stay overnight at the hotel since we had not reserved a room in advance",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "ما قبل از خوردن شام، فیلم رو ندیده بودیم",
+    "en": "We hadn’t watched the movie before we ate dinner",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "ما قبلا این معلمو ندیده بودیم",
+    "en": "We hadn’t met this teacher before",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها قبل از اینکه کنسرت رو اجرا کنن، با هم تمرین نکرده بودن",
+    "en": "They hadn’t practiced together before they gave the concert",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبلا از این موضوع شکایتی نکرده بودن",
+    "en": "They hadn’t complained about this before",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "دخترها غذاشون رو تموم نکرده بودن",
+    "en": "The girls hadn't finished their meal",
+    "type": "negative",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبلِ نقل‌مکان کردن به لندن، تابحال اونجا رو دیده بودی؟",
+    "en": "Had you ever visited London before you moved there?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از اینکه با همدیگه قرار بذارید، باهاش حرف زده بودی؟",
+    "en": "Had you spoken to him before you met each other?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از اینکه خونه رو ترک کنی، پیرهن‌ها رو اتو کرده بودی؟",
+    "en": "Had you ironed the shirts before you left home?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون قبلا پیش روان‌پزشک رفته بود؟",
+    "en": "Had she seen a psychiatrist before?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "همکارت قبل از سال ۲۰۱۳ اینجا کار کرده بود؟",
+    "en": "Had your colleague worked here before 2013?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "خواهرت قبلا تهران رفته بود؟",
+    "en": "Had your sister been to Tehran before?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون قبل از اینکه این ماشین زرده رو بخره، ماشین داشته؟",
+    "en": "Had he owned any cars before he bought this yellow car?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "برادرت قبل ساعت ۵ کارش رو تموم کرده بود؟",
+    "en": "Had your brother finished his work before 5 o’clock?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "بابات هرروز رفته بوده سر کار؟",
+    "en": "Had your father gone to work every day?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "سال‌های قبل هوا خوب بوده؟",
+    "en": "Had the weather been nice in previous years?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها قبل از اینکه کنسرت رو اجرا کنن، با همدیگه تمرین کرده بودن؟",
+    "en": "Had they practiced together before they gave the concert?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها رفته بودن خونه؟",
+    "en": "Had they gone home?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "خونواده‌ات پارسال به این شهر دیگه نقل‌مکان کرده بودن؟",
+    "en": "Had your family moved to this city last year?",
+    "type": "question",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "کی؟ چه‌کسی؟",
+    "en": "Who?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "کی قبل از اینکه بری خونه باخبرت کرده بود؟",
+    "en": "Who had informed you before you went home?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "کی قبل از اینکه بیای اینجا، معرفیت کرده بود؟",
+    "en": "Who had introduced you before you came here?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "کی قبل اینکه ما برسیم پنجره رو باز کرده بود؟",
+    "en": "Who had opened the window before we arrived?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چه کسی قسط ها رو پرداخت کرده بود قبل اینکه اونا زنگ بزنن؟",
+    "en": "Who had paid for the installments before they called?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها چه کسی رو  همون اول واسه تدارکات رویداد پیدا کرده بودن؟",
+    "en": "Who had they originally found to cater the event?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چه کسی رو برای مهمونی دعوت کرده بودی؟",
+    "en": "Who had you invited to the party?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چه کسی تو رو برای مهمونی دعوت کرده بود؟",
+    "en": "Who had invited you to the party?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چرا؟",
+    "en": "Why?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چرا اتوبوس توی شهر قبلی توقف کرده بود؟",
+    "en": "Why had the bus stopped in previous city?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چرا علی تند رانندگی کرده بود؟",
+    "en": "Why had Ali driven fast?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چرا او موافقت کرده بود تا با اون حقوق کار کنه؟",
+    "en": "Why had he agreed to work for that salary?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها قبل از اینکه شام پختن رو شروع کنن، چی‌کار کرده بودن؟",
+    "en": "What had they done before they started cooking dinner?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه مهاجرت کنی چی تصور کرده بودی؟",
+    "en": "What had you imagined before you emigrated?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل این برنامه چی (چه برنامه‌ای) نصب کرده بودی؟",
+    "en": "What had you installed before this app?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اونا چی گفته بودن که او رو عصبانی کرده بود؟",
+    "en": "What had they said that made him so angry?",
+    "type": "wh",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من قبل اینکه خونه رو ترک کنم در رو قفل کرده بودم.",
+    "en": "I had locked the door before I left the house.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی من به خونه رسیدم، اون‌ها خوابیده بودن.",
+    "en": "When I arrived home, they had already slept.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون خیلی خسته بود چون درست نخوابیده بود.",
+    "en": "He was exhausted because he hadn’t slept well.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی سارا رسید، ما آشپزی رو تموم کرده بودیم.",
+    "en": "When Sarah arrived, we had finished cooking.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "همین که ما اومدیم اینجا، حسن رفته بود.",
+    "en": "Hassan had left as soon as we came here.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من قبلا کامپیوتر رو روشن کرده بودم.",
+    "en": "I’d started the computer before.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون خیلی سال قبلِ اینکه دوباره به اینجا نقل‌مکان بکنه، همین‌جا زندگی کرده بوده.",
+    "en": "She had lived here many years before moving here again.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون ۲۰ سال مشهد زندگی کرده بود.",
+    "en": "She'd lived in Mashhad for 20 years.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها قبلا دوبار از این موضوع شکایت کرده بودن.",
+    "en": "They had complained about this two times before.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "کارکنان بخش نظافت دو روز بود که اتاق رو تمیز نکرده بودن.",
+    "en": "The housekeeping staff hadn’t cleaned the room in two days.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "چون فکر کردیم که بارون میاد ماشین رو نشسته بودیم .",
+    "en": "We hadn’t washed the car because we thought it would rain.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "پدر و مادرم قبل امروز به یه دونه از بازی‌هام هم نیومده بودن.",
+    "en": "My parents had not come to one of my games before today.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها قبل امروز چیزی از اون مغازه خریده بودن؟",
+    "en": "Had they bought anything from that store before today?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "توی گذشته خیلی طول کشیده بود که یه رزرو انجام بدی؟",
+    "en": "Had it taken so long to get a reservation in the past?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "دفعه‌ی پیش هم همون بهونه‌ها رو برات آورده بودن؟",
+    "en": "Had they given you the same excuse the last time?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من اون کشور رو قبل این سفر دوبار دیده بودم.",
+    "en": "I had visited that country twice before this trip.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "سگه کجا رفته بود؟",
+    "en": "Where had the dog gone?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "خواهرت راجع‌به اولین مصاحبه چه فکری کرده بود؟",
+    "en": "What had your sister thought about the first interview?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه جلوی سگت رو بگیری چقدر از کیک رو خورده بود؟",
+    "en": "How much of the cake had your dog eaten before you caught him?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من چیزهای مثبتی درباره‌ی تو تصور کرده بودم.",
+    "en": "I had imagined something positive about you.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من یه برنامه‌ی چینی نصب کرده بودم.",
+    "en": "I had installed a Chinese app.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "آقای جکسون من رو به رئیس معرفی کرده بود.",
+    "en": "Mr. Jackson had introduced me to the boss.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "پیرهن‌ها رو اتو نکرده بودم.",
+    "en": "I hadn’t ironed the shirt.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه بری مدرسه کی رو دیده بودی؟",
+    "en": "Who had you met before you went to school?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه پروفایل رو ذخیره کنم اسمم رو یادم رفته بود ذکر کنم .",
+    "en": "I had missed to mention my name before I saved the profile.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه بیای بیرون چی رو رنگ کرده بودی؟",
+    "en": "What had you painted before you came out?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه بیام بیرون دیوارهای نشیمن رو رنگ کرده بودم.",
+    "en": "I had painted the living room wall before I came out.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل خریدن پی اس 5  چه بازی‌هایی کرده بودی؟",
+    "en": "Which game had you played before you bought PS5?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل از اینکه پی اس 5 بخرم، روی کامپیوتر کلی بازی کرده بودم",
+    "en": "I had played many games on PC before I bought PS5.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه جلسه رو لغو کنیم چه کسی  به‌تعویقش انداخته بود ؟",
+    "en": "Who had postponed the meeting before we cancelled it?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من وانمود کرده بودم که رفتم سوپر مارکت",
+    "en": "I'd pretended to go to the supermarket.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون‌ها گرسنشون بود. پنج ساعت غذا نخورده بودن.",
+    "en": "They were hungry. They had not eaten for five hours.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون توضیح داد که به‌خاطر بارون پنجره رو بسته بود.",
+    "en": "He explained that he had closed the window because of the rain.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "ازشون پرسیدم که چرا تموم نکرده بودن.",
+    "en": "I asked them why they had not finished.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من با کارلوس توی دانشگاه آشنا شده بودم.",
+    "en": "I’d met Carlos back in college.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "خاله‌ام قبل از اینکه به تگزاس نقل‌مکان بکنه، توی کالیفرنیا زندگی کرده بود‌.",
+    "en": "My aunt had lived in California before moving to Texas.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی ما رسیدیم به ایستگاه، اتوبوس تازه رفته بود.",
+    "en": "The bus had just left when we got to the stop.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "تازه قلاده‌ی سگ رو بسته بود که رسیدیم اونجا.",
+    "en": "He had just put the dog on the leash when we got there.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "قبل اینکه بری روم، زبان ایتالیایی خونده بودی؟",
+    "en": "Had you studied Italian before you moved to Rome?",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "دوستم تموم شب رو بیدار موند چون‌که خبر بدی گرفته بود.",
+    "en": "My friend stayed up all night because she had received bad news.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "مامانم تا پارسال، هیچ‌وقت توی بیمارستان بستری نشده بود.",
+    "en": "My mom had never been hospitalized before last year.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من قبلِ ساعت ۸ خوابم برده بود.",
+    "en": "I had fallen asleep before 8 o'clock.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "ما خیلی دیر کردیم. قطار رفته بود.",
+    "en": "We were too late. The train had left.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من گرسنه‌ام نبود. تازه غذا خورده بودم.",
+    "en": "I wasn't hungry. I had just eaten.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون چون خوب نخوابیده بود، خیلی خسته بود",
+    "en": "He was very tired because he hadn't slept well",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "تولد هجده‌سالگی‌ام بدترین روزی بود که تا حالا داشتم",
+    "en": "My eighteenth birthday was the worst day I had ever had.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون موقع که جرج مرد، تقریبا ۵۰ سال از ازدواجش با ماری گذشته بود.",
+    "en": "When George died, he and Marry had been married for nearly fifty years.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "من قبل از ساعت ۷ کارم رو تموم کرده بودم.",
+    "en": "I had finished the work before 7 o'clock.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "وقتی بارون شروع شد، من تازه رفته بودم بیرون.",
+    "en": "I had just gone outside when it started to rain.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  },
+  {
+    "fa": "اون آرزو کرد که کاش دوستش رو دیده بود.",
+    "en": "She wished she had seen her friend.",
+    "type": "practice",
+    "tense": "Past Perfect"
+  }
+]

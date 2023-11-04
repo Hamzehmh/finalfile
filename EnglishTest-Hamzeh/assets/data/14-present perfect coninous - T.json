@@ -1,0 +1,668 @@
+[
+  {
+    "fa": "من تموم روز رو سخت مشغول کار کردن هستم",
+    "en": "I have been working hard all day",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "باید برم و ( خودمو ) بشورم. از صبح دارم باغبونی میکنم.",
+    "en": "I must go and wash. I've been gardening since morning",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "مردم کل روز دارن بهم زنگ میزنن",
+    "en": "People have been calling me all day",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "[مدتیه که] شب‌ها خیلی از خواب بیدار میشم. فکر ‌کنم باید برم دکتر",
+    "en": "I've been waking up in the night a lot. I think I'll see the doctor",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من این روزا حال خیلی خوبی دارم",
+    "en": "I have been feeling great these days",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من مدت دو ساله که صندوق دارم",
+    "en": "I've been working as a cashier for two years",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من مدت دو ساله که توی این شرکت کار می‌کنم",
+    "en": "I've been working at this company for two years",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من از سال ۲۰۱۵ تو این آپارتمان زندگی میکنم",
+    "en": "I've been living in this apartment since 2015",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من دو ساعته که مشغول نوشتن چندتا ایمیل هستم",
+    "en": "I've been writing emails for 2 hours",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "یه ماهه که دارم تو آپارتمان سو زندگی میکنم",
+    "en": "I've been living in Sue's apartment for the last month",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از 18 سالگی دارم رانندگی میکنم",
+    "en": "I’ve been driving since I was 18",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "تازگیا ، دارم چند تا دستور پخت ژاپنی یاد میگیرم",
+    "en": "Lately, I’ve been learning some new Japanese recipes",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از صبح تا الان بدون وقفه دارم تلویزیون میبینم",
+    "en": "She has been watching TV non-stop since breakfast",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "او کل روزو داره کتاب میخونه",
+    "en": "She's been reading that book all day",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "دخترم از وقتی که فارغ‌التحصیل شد داره تو شهر نزدیک به دانشگاهش زندگی میکنه",
+    "en": "My daughter has been living in a city near her college since she graduated",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از وقتی که پدرش مرده داره گریه میکنه",
+    "en": "He's been crying since his father died",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "کل این هفته سخت مشغول درس خوندنه",
+    "en": "He's been studying hard this week",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "مایکل یه ساعته که داره پیاده روی میکنه",
+    "en": "Michael has been jogging for an hour",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "برادرم ۹ ماهه که داره اونجا زندگی میکنه",
+    "en": "My brother has been living there for 9 months",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "تموم روزه که داره بارون میباره",
+    "en": "It's been raining all day",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "سگم کل صبحو داره پارس میکنه",
+    "en": "My dog has been barking all morning",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "کل روز خورشید میتابه",
+    "en": "The sun has been shining all day",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "تازگیا ما داریم باشگاه میریم",
+    "en": "We've been going to the gym recently",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "ما از صبح داریم اتاقو رنگ میکنیم",
+    "en": "We've been painting the room since morning",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "تازگیا برای بهبودیت دعا می‌کنیم",
+    "en": "We've been praying for your recovery recently",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "کل امسال، قیمت مسکن داره زیاد میشه",
+    "en": "House prices have been going up all this year",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزها که مامانشون (پیششون) نیست، فست‌فود می‌خورن",
+    "en": "They have been eating some fast food these days that their mom is not around",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "شاگردهای من ۱۰ ساله دارن زبان انگلیسی می خونن",
+    "en": "My students have been studying English for 10 years",
+    "type": "positive",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزها به‌ اندازه‌ی کافی سبزیجات نمیخورم",
+    "en": "I've not been eating enough vegetables these days",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من چند وقته که خیلی خوب کار نمی‌کنم",
+    "en": "I haven't been working very well recently",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چند وقته که حالم خوب نیست",
+    "en": "I haven't been feeling well lately",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "طی بارداریم، من وزن اضافه نمیکنم",
+    "en": "I have not been gaining weight over my pregnancy",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "تو اون‌قدر درس نمیخونی که توی مدرسه نتیجه‌ی خوبی بگیری",
+    "en": "You haven't been studying enough to do well in school",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "رئیسم به‌طور منظم به اداره نمیاد",
+    "en": "My boss has not been coming into the office regularly",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون دو ماه اخیره که بخوبی نمیخوابه",
+    "en": "He has not been sleeping well the last two months",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون این هفته رو توی کتابخونه درس نمیخونه",
+    "en": "He hasn't been studying at the library this week",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از وقتی رفتم پیش دکتر ، کمرم دیگه درد نمیکنه",
+    "en": "My back hasn’t been hurting since I've visited the doctor",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "ما طی این ماه پول زیادی درنیاوردیم",
+    "en": "We haven't been making a lot of money over the month",
+    "type": "negative",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من از اون موقعی که خوابم برده ، خر و پف میکنم ؟",
+    "en": "Have I been snoring since I slept?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "ببخشید دیر کردم. خیلی وقته که منتظرمی؟",
+    "en": "Sorry I'm late. Have you been waiting long?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزها حالت بهتره ؟",
+    "en": "Have you been feeling better these days?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "همچنان رژیم غذاییت رو حفظ میکنی یا شیرینی می‌خوری؟",
+    "en": "Have you been keeping to your diet or eating sweets?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "خسته‌ای چون دوییدی ؟",
+    "en": "You're tired because you have been running?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزا مادرت توی خونه‌ی ساحلی میمونه ؟",
+    "en": "Has your mother been staying at the beach house these days?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "همکارت اخیرا توی مسابقات فلوت داره شرکت میکنه ؟",
+    "en": "Has your colleague been competing in flute competitions recently?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "برادرت از دیروز تا الان داره انشا مینویسه ؟",
+    "en": "Has your brother been writing essay since yesterday?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "خیلی وقته که بچه خوابیده؟",
+    "en": "Has the baby been sleeping long?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چمن‌ها به‌نظر خیس میان.(یه مدته که ) داره بارون میاد  ؟",
+    "en": "The grass looks wet. Has it been raining?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون‌ها مشغول کار کردن روی پروژن ؟",
+    "en": "Have they been working on the report?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از پارسال تنیس بازی میکنن ؟",
+    "en": "Have they playing tennis since last year?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "مادرهاشون کل روز رو دارن آشپزی میکنن ؟",
+    "en": "Have their mothers been cooking all day?",
+    "type": "question",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "کی؟ چه‌کسی؟",
+    "en": "Who?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این هفته‌ها کی رو ملاقات میکنی ؟",
+    "en": "Who have you been meeting these weeks?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چرا؟",
+    "en": "Why?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چرا جواب تماس‌هام رو نمیدی؟",
+    "en": "Why haven't you been answering my calls?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چرا علی اونجا با عصبانیت وایستاده؟",
+    "en": "Why has Ali been standing there angrily?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چرا پنج ساعته که داری راه میری ؟",
+    "en": "Why have you been walking for five hours?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزها چیکارا میکنی ؟",
+    "en": "What have you been doing these days?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزها مشغول تماشای چی هستی؟",
+    "en": "What have you been watching these days?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از وقتی مامانت به گرگان سفر کرده ، چی می‌خوری؟",
+    "en": "What have you been eating since your mom traveled to Gorgan?",
+    "type": "wh",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از دو ماه پیش که دوست‌دخترش ولش کرده، داره گریه می‌کنه.",
+    "en": "He's been crying since his girlfriend left him two months ago.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "خواهرت این روزها مشغول چه کاریه؟",
+    "en": "What has your sister been doing these days?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "من چند دوره‌ی آیلتس رو دارم مطالعه میکنم .",
+    "en": "I have been studying some IELTS courses.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "سارا از دبیرستان فوتبال بازی میکنه",
+    "en": "Sara has been playing soccer since high school.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزها کجا کار میکنی؟",
+    "en": "Where have you been working these days?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "سریال جدید نتفلیکس رو می‌بینم.",
+    "en": "I've been watching the new series on Netflix.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون از یه ماه گذشته (تا الان ) به همه‌ی دانش‌آموزهای کلاس سوم درس میده",
+    "en": "She has been teaching all the students in the third grade for the last month.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "یه ساعت بیشتره که منتظر اتوبوسم.",
+    "en": "I have been waiting for the bus for more than an hour.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چند وقته پیانو تمرین می‌کنی؟",
+    "en": "How long have you been practicing the piano?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "دوازده روز بیشتره که پیانو تمرین می‌کنم.",
+    "en": "I've been practicing the piano for more than 12 days.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "برادرت چند وقته سانفرانسیسکو زندگی می‌کنه؟",
+    "en": "How long has your brother been living in San Francisco?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "بیشتر از یه هفتست خونه‌ی عمه‌ام می‌مونم.",
+    "en": "I've been staying in my aunt's house for more than a week.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "رئیسمون این هفته‌ها داره نماینده‌ی جدید رو میبنه ( ملاقات میکنه )",
+    "en": "Our boss has been meeting the new congress man these weeks.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از وقتی کار و ول کردم ماشین رو جلوی گاراژ پاک می‌کنم.",
+    "en": "I've been parking the car in front of the garage since I quit the job.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چطوری میری سر کار این روزا؟",
+    "en": "How have you been going to work?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "با ماشین سر کار میرم این روزا",
+    "en": "I’ve been driving to work.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "سه ساله که ورزش می‌کنم.",
+    "en": "I've been working out for three years.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از وقتی که یادمه خواهرم با جاشوآ بوده.",
+    "en": "My friend has been with Joshua as long as I can remember.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از وقتی که بچه بودم موج سواری می‌کنم",
+    "en": "I’ve been surfing since I was a kid.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چند وقته آمریکا زندگی می‌کنی؟",
+    "en": "How long have you been living in the US?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "الان یه ماهه دارم کتاب جنگ و صلح رو می‌خونم.",
+    "en": "I have been reading War and Peace for a month now.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "جدیدا دارم یه کار تازه رو امتحان میکنم.",
+    "en": "Recently, I've been trying a new career.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "بابام از سال ۲۰۱۷ مزداش رو داره.",
+    "en": "My father has been owning his Mazda since 2007.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از هشت صبح امروز دارم روی این گزاشکار کار میکنم",
+    "en": "I've been working on this report since eight o'clock this morning.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چه کسی کله روزو داره آشپزی میکنه ؟",
+    "en": "Who has been cooking all day?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "مامان‌هاشون همه‌ی روز رو آشپزی نمیکنن",
+    "en": "Their mothers have not been cooking all day.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از اکتبرِ سال پیش توی سفرن.",
+    "en": "They have been travelling since last October.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون از دیشب داره غذا میپزه. ( مثه غذا نذری مثلا)",
+    "en": "She has been cooking since last night.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "یکی چیپس‌هامو میخوره",
+    "en": "Someone's been eating my chips.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون نیم ساعته که داره میدوعه.",
+    "en": "She has been running for half an hour.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون برای نیمه‌ماراتن تمرین می‌کنه.",
+    "en": "She's been training for a half-marathon.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "برای دوست‌هام دو ماهه نامه مینویسم",
+    "en": "I've been writing letters to my friends for 2 months.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چند وقته بسکتبال بازی می‌کنی؟",
+    "en": "How long have you been playing basketball?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "پسرها یه ساعته بسکتبال بازی می‌کنن.",
+    "en": "The boys have been playing basketball for an hour.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "سال‌هاست که هر یکشنبه بسکتبال بازی می‌کنن.",
+    "en": "They've been playing basketball every Sunday for years.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "خالم چند دقیقست که داره انگلیسی می‌خونه.",
+    "en": "My aunt has been studying English for a few minutes.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از ۳:۳۰ داره می‌دوعه.",
+    "en": "He’s been running since 3:30.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "کل بعدازظهر رو حرف زدن.",
+    "en": "They’ve been talking all afternoon.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چند وقته که داره بارون میاد؟",
+    "en": "How long has it been raining?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "تا (وقتی که ) آپارتمان نوسازی می‌شه، پیش تیم می‌مونم.",
+    "en": "I’ve been staying with Tim while my flat’s being renovated.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "بچه‌ها کل بعدازظهر توی باغ بازی کردن و سر تا پاشون گلی شده",
+    "en": "The kids have been playing in the garden all afternoon and they’re covered with mud.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "تام از ساعت 10 داره ماشینم رو تعمیر می‌کنه. دست‌هاش روغنی شده.",
+    "en": "Tom has been repairing my car since 10. He’s got oil on his hands.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "اون قرمز شده چون کل روزو توی آفتاب دراز کشیده.",
+    "en": "She’s red because she’s been lying in the sun all day.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "چشم‌هام خستن چون مدت طولانیه که با کامپیوترم کار می‌کنم.",
+    "en": "My eyes are tired because I’ve been working on my computer for a long time.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "پاهاشون تاول زده چون‌که از ۹ صبح دارن راه میرن",
+    "en": "They’ve got blisters on their feet because they’ve been walking since 9 a.m.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "ژاک نیم ساعته که داره کیک میپزه و لباس‌هاش آردی شد.",
+    "en": "Jacques has been baking a cake for an hour and he’s got flour on his clothes.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "از ۳ بعدازظهر دارم تمیزکاری می‌کنم.",
+    "en": "I’ve been cleaning since 3 p.m.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "داری فرانسوی یاد میگیری؟",
+    "en": "Your you been learning French?",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "این روزها چی کار میکنی؟",
+    "en": "What have you been doing these days.",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  },
+  {
+    "fa": "«قلعه‌ی حیوانات» رو دارم می‌خونم از دو روز پیش",
+    "en": "I’ve been reading ‘Animal Farm’ since 2 days ago,",
+    "type": "practice",
+    "tense": "present perfect coninous"
+  }
+]

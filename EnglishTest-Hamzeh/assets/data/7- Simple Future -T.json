@@ -1,0 +1,752 @@
+[
+  {
+    "fa": "وقتی بزرگتر شدم تو یه خونه ی بزرگتر زندگی میکنم.",
+    "en": "I will live in a big house when I’m older.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "وقتی شیفتم تمام بشه مدارک رو براتون میارم.",
+    "en": "I’ll bring you the documents when my shift is over.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "من بهت کمک میکنم تا هرچی سریع تر تکلیفت رو بنویسی.",
+    "en": "I'll help you write your homework as soon as possible.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "من فقط میرم قبل از رفتن یه سلام میدم.",
+    "en": "I’ll just go and say ‘hello’ before we leave.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "وقتی رفتم به ایستگاه اتوبوس، روزنامه رو میخونم.",
+    "en": "I will read the newspaper when I go to bus station.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "وقتی بری به یه کشور دیگه دلم برات تنگ میشه.",
+    "en": "I will miss you when you move to another country.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "تا اخر هفته مقاله م رو بهت میرسونم.",
+    "en": "I will give you my article by the end of the week.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "فکر کنم انگلیس جام جهانی رو ببره.",
+    "en": "I think England will win the world cup.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کمکت میکنم تا چمدوناتو جابجا کنی.",
+    "en": "I will help you with the luggage.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "تا مدیر رو نببینم از اینجا نمیرم.",
+    "en": "I won't leave until I've seen the manager!",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "بهتره مثل احمق ها رفتار نکنی.",
+    "en": "You’ll need to stop acting like fools.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "شما در این هتل 5 ستاره خدمات کامل را دریافت خواهید کرد.",
+    "en": "You will receive full service at this 5-star hotel.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اگر به سختی درس بخونه، در امتحان قبول می شود.",
+    "en": "He'll pass the exam if he studies hard.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "وقتی همه داده‌ها رو داشته باشه، گزارش رو برای ما ارسال می‌کنه.",
+    "en": "He’ll send us the report when he has all the data.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او ساعت 8 در جلسه دانشگاه شرکت میکنه.",
+    "en": "He’ll attend the meeting at the university at 8 o’clock.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او از نظر شما خوشحال نمیشه.",
+    "en": "she won't be happy with your comment.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او به محض اینکه پیام رو دریافت کنه میاد اینجا.",
+    "en": "She will come here as soon as she gets the message.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او به عنوان یک مشاور کمپ عالی خواهد بود.",
+    "en": "She’ll be great as a camp counselor.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "مامانم برای تولد دوستم کیک میپزه.",
+    "en": "My mother will bake a cake for my friend’s birthday.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "طوفان بعد از نیمه شب شروع میشه.",
+    "en": "The storm will start after the midnight.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اگه بارون نمیباره، بریم پارک.",
+    "en": "If it doesn't rain, we'll go to the park.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ما ساعت 8 تو هتلیم.",
+    "en": "We’ll be at the hotel until 8 p.m.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ما سعی می کنیم کالا رو در اسرع وقت برای شما ارسال کنیم.",
+    "en": "We’ll try to send you the goods as soon as possible.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ما یکشنبه از تعطیلات برمیگردیم.",
+    "en": "We will be back on Sunday from holiday",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ما ارقام فروش رو بررسی میکنیم  و شما هزینه ها رو بررسی کنید.",
+    "en": "we’ll check the sales figures and you check the expenses.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "لی و کیم شهر رو بهتون نشون میدن.",
+    "en": "Lee and Kim will show you around the city.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "قطار امروز، بخاطر اب و هوای بد دیر میاد.",
+    "en": "The trains will be late today because of the bad weather.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "شما بچه ها، اینده ی این کشور خواهید بود.",
+    "en": "You children will be the future of this country.",
+    "type": "positive",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "فکر می کنم که محافظه کاران در انتخابات بعدی پیروز نخواهند شد",
+    "en": "I think the Conservatives won’t win the next election.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "سردم نیست، دستکش هامو نمی پوشم",
+    "en": "I’m not cold, I won’t put my gloves on.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "من فکر نمیکنم او با پول نقد پرداخت کنه.",
+    "en": "I think she won’t pay with cash.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "مقامات با طیف گسترده ای از آژانس ها قرارداد نمیبندن.",
+    "en": "The authority won’t contract with a wide range of agencies.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او کتاب های مختلفی رو نمیخونه.",
+    "en": "He won’t read various kind of books.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او قهوه رو به چای ترجیح نمیده.",
+    "en": "She will not prefer coffee to tea.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "بخاطر برنامه ریزی هامون تو برنامه شرکت نمیکنیم.",
+    "en": "We won’t attend the program because of our schedule.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اگه اومد بهش نمیگیم.",
+    "en": "We won’t tell you if he shows up.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اونا مواد لازم رو برای ایجاد برنامه انجام نمیدن.",
+    "en": "They will not arrange all the necessary materials for the program.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اونا دوشنبه در اون بازار خرید نمیکنن.",
+    "en": "They won’t go shopping in that market on Mondays.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "به نظرم، اونا این تجارت رو راه اندازی نمیکنن.",
+    "en": "In my opinion, they won’t start this business.",
+    "type": "negative",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیا با من به ملاقات میای؟",
+    "en": "Will you come to the appointment with me?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "سیرک دولتی مسکو در آکسفورد یا کمبریج اجرا داره؟",
+    "en": "Will the Moscow State Circus perform in Oxford or Cambridge?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "میشه کمکم کنی؟",
+    "en": "Will you give me a hand?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ایا او برای مهمونا میوه میاره؟",
+    "en": "Will she bring some fruits for the guests?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیا در یک استراحتگاه تابستانی در کوهستان کار میکنی؟",
+    "en": "Will you work at a summer resort in the mountains?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "میشه فایل هارو سر راهت به کار، به من برسونی؟",
+    "en": "Will you drop the files off in your way to work?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ایا در مراسم خاکسپاری پسر عموت شرکت میکنی؟",
+    "en": "Will you attend your cousin’s funeral?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیا پله های جلو را برای من جارو می کنی؟",
+    "en": "Will you sweep the front steps for me?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اون امشب قبل از خواب چراغ قوه را تعمیر میکنه؟",
+    "en": "Will he fix the flashlight tonight before bed time?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اگر تکالیف من رو انجام بدی برات دیروقت میشه؟",
+    "en": "Will it be late for you if you do my homework?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیا او امروز بعد از تدریس ریاضیات، میراث باستانی را تدریس می کند؟",
+    "en": "Will she teach the ancient heritage today after she teaches math?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "میشه لطفا اینجا رو جاروبرقی بکشید؟",
+    "en": "Will you please vacuum this area?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیا روز جمعه سالگردمون رو جشن میگیریم یا یکشنبه؟",
+    "en": "Will we celebrate our anniversary on Friday or on Sunday?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیا اونا برای راه اندازی کسب و کار برنامه ریزی کردن؟",
+    "en": "Will they plan to start a business?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ایا اونا سال آینده به قاره آمریکا میرن؟",
+    "en": "Will they go to the Americas the next year?",
+    "type": "question",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کی؟ چه‌کسی؟",
+    "en": "Who?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "هفته آینده چه شخصی رو در نیویورک میبینی؟",
+    "en": "Who will you see in New York next week?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چرا؟",
+    "en": "Why?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چرا این موضوع را به پدر و مادرت نمیگی؟",
+    "en": "Why won't you tell your parents about it?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چرا برای این برنامه شعر عاشقانه سروده؟",
+    "en": "Why will he write a romantic poem for this program?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چرا پنجشنبه در آن زمین هاکی بازی نکینم؟",
+    "en": "Why won’t we play hockey in that field on Thursday?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چه چیزی؟",
+    "en": "What?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چه چیزی به او هدیه می دهید؟",
+    "en": "What will you give he as a gift?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ساعت چند با هم تنیس بازی کنیم؟",
+    "en": "What time will we play tennis together?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چه چیزی را به عنوان پایان نامه به آنها ارائه خواهید کرد؟",
+    "en": "What will you present to them as a thesis?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چطوری؟",
+    "en": "How?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چه مدت تو هنگ کنگ میمونی؟",
+    "en": "How long will you stay in Hong Kong?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چند بار اون ایمیل رو میخونی؟",
+    "en": "How many times will you read that email?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چقدر زمان داری تا این  مقاله رو واسم ویرایش کنی؟",
+    "en": "How much time will you have to edit this article for me?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کجا؟",
+    "en": "Where?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اخر ماه کجا زندگی میکنی؟",
+    "en": "Where will you live at the end of month?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "به کجا این پول رو اهدا میکنی؟",
+    "en": "Where will you donate this money to?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کنفرانس کجا برگزار میشه؟",
+    "en": "Where will the conference take place?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کی؟ چه‌زمانی؟",
+    "en": "When?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "بوکسورها کی دوباره مبارزه میکنن؟",
+    "en": "When will the boxers fight again?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کی واسه نهار میای اینجا؟",
+    "en": "When will you be here for lunch?",
+    "type": "wh",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اگه تلاشمون رو بکنیم، بهترین نتیجه رو میگیریم.",
+    "en": "If we do all our best, the outcome will be great.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "فردا صبح در این سوئیت هتل درجه یک بیدار میشم.",
+    "en": "Tomorrow morning, I will wake up in this first-class hotel suite.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "میشه از سر و صدا ایجاد کردن دست برداری؟",
+    "en": "Will you please stop making that noise?",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اون خیلی زود سر هیچی عصبی میشه.",
+    "en": "He will get angry very soon over nothing.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "یه روز کار میکنه یه روز میخوره.",
+    "en": "She will work one day and loaf the other day.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "صندلی عقب جا برای سه مسافر خواهد داشت",
+    "en": "The backseat will take three passengers.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "هروقت برسم خونه لباسامو میشورم.",
+    "en": "I’ll wash my clothes as soon as I get home.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "من مقالات با موضوعات مختلف میخونم.",
+    "en": "I will read articles on different topics.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "باب فردا میره کتابخونه.",
+    "en": "Bob will go to the library tomorrow.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "در سینپکس جمعه ی بعدی فیلمی خواهیم دید.",
+    "en": "We will watch a movie in this cineplex on next Friday.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "جف در ماه مارچ به تمام دنیا سفر خواهد کرد.",
+    "en": "Jeff will travel around the world in march.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ترانه سرا ترانه ای واقع گرایانه خواهد نوشت.",
+    "en": "The lyricist will write a realistic song.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "رابین در جلسه به ما میپیونده.",
+    "en": "Robin will join us in the meeting.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "میشه در خلوت ازش حقیقت رو بپرسی؟",
+    "en": "Will you ask him the truth in private?",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیلین اولین رمان خودش رو  اکتبر امسال به پایان خواهد رساند.",
+    "en": "Aileen will complete her first novel this October.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "برای کسب نمره خوب سخت تلاش میکنم.",
+    "en": "I will work hard to obtain good marks.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "پاتریک تنظیمات برنامه ی خود رو ساعت پنج تکمیل خواهد کرد.",
+    "en": "Patrick will complete his event setup at five.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "گروه رپرتوار(گردآوره، فهرست نمایش های اماده برای نمایش دادن) خود را ساعت هشت به پایان میرسونن.",
+    "en": "The band will finish their repertoire at eight.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کانیه وست برای ریاست جمهوری نامزد نخواهد شد.",
+    "en": "Kanye West will not run for president.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "بسیاری از مردم تابستان امسال به تعطیلات خواهند رفت.",
+    "en": "Lots of people will go on vacation this summer.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "وقتی زمان رفتن میرسه گریه میکنم.",
+    "en": "I will cry when it’s time to leave.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "بن آهنگ خوبی خواهد خوند.",
+    "en": "Ben will sing a good song.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او تبدیل به یه ادم خوب میشه.",
+    "en": "He will become a good person.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او اخر هفته به المان سفر میکنه.",
+    "en": "He will travel to Germany on the weekend.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "انجلینا نیم سال بعدی سخت تر تلاش خواهد کرد.",
+    "en": "Angelina will study harder the following semester.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ماشینشون تا چند دقیقه بعد میرسه.",
+    "en": "Their car will arrive in a few minutes.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اوکیفهامو با اسانسور برام میاره.",
+    "en": "She will bring my bags to the elevator.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "الیس کمکمون نمیکنه جشن رو دکور کنیم.",
+    "en": "Alice won’t help us decorate for the party.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اگر مزایده رو تمام نکنید، رئیس به شما افزایش حقوق نمیده.",
+    "en": "If you don’t finish the bid, the boss won’t give you a raise.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او بعد از نهار ایمیل رو مینویسه.",
+    "en": "She’ll write the e-mail after lunch.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "دخترا واسه پارتی دیر نکردن؟",
+    "en": "Won’t the girls be late for the party.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "فرضیه او در مقابل انتقاد آنها قدرتی نداره.",
+    "en": "His hypothesis will not stand up to their criticism.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "توکیفتو انداختی، من گرفتمش.",
+    "en": "You dropped your purse. I’ll get it.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "آیا دیو سی دی رو برات رایت میکنه؟",
+    "en": "Will Dave burn the CD for you?",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "کی بهت جواب میده؟",
+    "en": "When will he give you an answer?",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "چرا بهش حقیقت رو نمیگی؟",
+    "en": "Why won’t you tell him the truth?",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او دیگه اضافه کار نخواهد کرد.",
+    "en": "He won’t work overtime anymore.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "مدیران تا پنجشنبه آینده درباره بودجه تصمیم نخواهند گرفت.",
+    "en": "The managers won’t decide about the budget until next Thursday.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "دخترا الان گریس شگفت انگیز رو میخونن.",
+    "en": "The girls will sing Amazing Grace now.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ما تقاضای بازپرداخت برای اون تلویزیونی میخوایم که خراب شده.",
+    "en": "We will demand a refund on that TV that broke down.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "سال آینده لس آنجلس را ترک میکنم.",
+    "en": "I will leave los angles next year.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ترنر وقتی تو فرودگاه فرود بیاد یه ماشین کرایه میکنه.",
+    "en": "Turner will hire a car when he lands at the airport.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او استاد رو متقاعد میکنه که بهش نمره بده.",
+    "en": "He will persuade the professor to give him the grade.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "اون رو بلند نکن. به خودت صدمه میزنی.",
+    "en": "·        Don't lift that. You'll hurt yourself.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "میشه بیای جلو و خودت رو معرفی کنی؟",
+    "en": "Will you come forward and introduce yourself?",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "برای خونشون مبل جدید میخرن؟",
+    "en": "Will they buy new furniture for their home?",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "هرچی لازم باشه بهت میدیم تا اینکارو انجام بدی.",
+    "en": "We’ll get you everything you need in order to get it done.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "من وجان خانواده ی براون رو به پارتی دعوت کردیم.",
+    "en": "John and I will invite the Browns to the party.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "او کمکم کرد غذا رو درست کنم.",
+    "en": "She will help me with the food.",
+    "type": "practice",
+    "tense": "Simple Future"
+  },
+  {
+    "fa": "ایا او با جورج ازدواج میکنه؟",
+    "en": "Will she marry George?",
+    "type": "practice",
+    "tense": "Simple Future"
+  }
+]
