@@ -1,9 +1,8 @@
 x = 50
 y = 49
 
-print(x ** 50)
-print(y ** 51)
-print((y ** 51) - (x ** 50))
+#this is a simple question about Tavan ;)
+
 
 
 
