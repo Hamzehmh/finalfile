@@ -15,7 +15,7 @@ class Person:
 
     def info(self):
         print("my info is :" +self.f_name+" "+self.l_name+ " "+str(self.age)+ " " +str(self.ID))
-  #--------------------------------------------------------------
+  #---------------------------------------------------------------
 class Manager(Person):
      def __init__(self,f_name,l_name,age,ID, semat):
         super().__init__(f_name,l_name,age,ID)
