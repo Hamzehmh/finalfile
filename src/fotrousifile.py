@@ -8,7 +8,7 @@ from fotrousiclass import Moshtari
 per1 = per("\nali", "Niazi", 52, 123)
 print(per1.f_name, per1.l_name, per1.ID, per1.age)
 per1.info()
-print("------------------------------------------------------")
+print("-------------------------------------------------------")
 per8 = per("hamiddd", "gholami", 32,24569)
 print(per8.f_name, per8.l_name, per8.age, per8.ID)
 per8.info()
