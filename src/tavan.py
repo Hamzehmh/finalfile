@@ -20,5 +20,5 @@ y = 49
 if (50** 50 > 49 ** 51):
     print("50 bigerthan 49")
 else:
-    print("49 bigerthan 50")
+    print("\n >>> 49 bigerthan 50 <<<\n")
 
