@@ -4,6 +4,7 @@ print("-----------------PATHLIB--------------------------------")
 
 from pathlib import Path
 print(Path.cwd())
+print(f"this is my \"{Path.cwd()}\" path in my computer")
 
 print("-----------------TAVAN----------------------------------")
 
