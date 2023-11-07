@@ -12,5 +12,23 @@ def parent(num):
         return second_child
 
 
-print(parent(2)())
 
+
+
+
+def my_decorator(func):
+    def wrapper():
+        print("Something is happening before the function is called.")
+        func()
+        print("Something is happening after the function is called.")
+        
+    return wrapper
+
+@my_decorator
+def say_whee():
+    """
+    This function returns some stuff!
+    """
+    print("Whee!")
+
+print(say_whee())    
