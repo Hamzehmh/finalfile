@@ -20,11 +20,14 @@ def slow_down2(func):
     """
     @functools.wraps(func)
     def wrapper_slow_down(*args, **kwargs):
-        time.sleep(2)
+        time.sleep(b)
         return func(*args, **kwargs)
     return wrapper_slow_down
 
 #---------------------------------------------------------
+a = int(input('Enter Timer number: '))
+b = int(input('Enter DElay number: '))
+
 
 @slow_down2
 def countdown(from_number):
@@ -33,4 +36,4 @@ def countdown(from_number):
     else:
         print(from_number)
         countdown(from_number - 1)
-print(countdown(4))
+print(countdown(a))
