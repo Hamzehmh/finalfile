@@ -32,7 +32,7 @@ b = int(input('Enter DElay number: '))
 @slow_down2
 def countdown(from_number):
     if from_number < 1:
-        print("Liftoff!")
+        print("your TIME is over!")
     else:
         print(from_number)
         countdown(from_number - 1)
