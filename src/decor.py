@@ -1,6 +1,8 @@
 import functools
 import time
 
+
+
 def slow_down(func):
     """Sleep 1 second before calling the function"""
     @functools.wraps(func)
@@ -9,11 +11,26 @@ def slow_down(func):
         return func(*args, **kwargs)
     return wrapper_slow_down
 
-@slow_down
+#---------------------------------------------------------
+
+def slow_down2(func):
+    """_Sleep_
+              Arguments:
+              func -- _sleep 1 second before calling_
+    """
+    @functools.wraps(func)
+    def wrapper_slow_down(*args, **kwargs):
+        time.sleep(2)
+        return func(*args, **kwargs)
+    return wrapper_slow_down
+
+#---------------------------------------------------------
+
+@slow_down2
 def countdown(from_number):
     if from_number < 1:
         print("Liftoff!")
     else:
         print(from_number)
         countdown(from_number - 1)
-print(countdown(8))
+print(countdown(4))
