@@ -1,34 +1,19 @@
-def parent(num):
-    print("Printing from the parent() function")
+import functools
+import time
 
-    def first_child():
-        print("Printing from the first_child() function")
+def slow_down(func):
+    """Sleep 1 second before calling the function"""
+    @functools.wraps(func)
+    def wrapper_slow_down(*args, **kwargs):
+        time.sleep(1)
+        return func(*args, **kwargs)
+    return wrapper_slow_down
 
-    def second_child():
-        print("Printing from the second_child() function")
-    if num == 2:
-        return first_child
+@slow_down
+def countdown(from_number):
+    if from_number < 1:
+        print("Liftoff!")
     else:
-        return second_child
-
-
-#-------
-
-
-
-def my_decorator(func):
-    def wrapper():
-        print("Something is happening before the function is called.")
-        func()
-        print("Something is happening after the function is called.")
-        
-    return wrapper
-
-@my_decorator
-def say_whee():
-    """
-    This function returns some stuff!
-    """
-    print("Whee!")
-
-print(say_whee())    
+        print(from_number)
+        countdown(from_number - 1)
+print(countdown(8))
