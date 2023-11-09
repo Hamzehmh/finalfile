@@ -3,7 +3,7 @@ from fotrousiclass import Manager
 from fotrousiclass import Karmand
 from fotrousiclass import Moshtari
 
-#this is a frist commit for today and tommarowwwwwwwww
+#this is a frist commit for today and tommarowwwwwww
 
 per1 = per("\nali", "Niazi", 52, 123)
 print(per1.f_name, per1.l_name, per1.ID, per1.age)
