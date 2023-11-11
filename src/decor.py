@@ -1,5 +1,6 @@
 import functools
 import time
+import json
 
 
 
@@ -37,3 +38,6 @@ def countdown(from_number):
         print(from_number)
         countdown(from_number - 1)
 print(countdown(a))
+
+
+json.load(/src/data.json)
