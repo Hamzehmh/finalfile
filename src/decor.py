@@ -11,7 +11,7 @@ def slow_down(func):
         return func(*args, **kwargs)
     return wrapper_slow_down
 
-#--------------------------------------------------------------
+#-------------------------------------------------------------
 
 def slow_down2(func):
     """_Sleep_
@@ -24,7 +24,7 @@ def slow_down2(func):
         return func(*args, **kwargs)
     return wrapper_slow_down
 
-#------------------------------------------------------------
+#-----------------------------------------------------------
 a = int(input('Enter Timer number: '))
 b = int(input('Enter DElay number: '))
 
