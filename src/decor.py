@@ -40,4 +40,5 @@ def countdown(from_number):
 print(countdown(a))
 
 
-json.load(/src/data.json)
+with open("data.json", "w") as read_file:
+    data = json.load(read_file)
