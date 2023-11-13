@@ -30,20 +30,20 @@ per4 = Karmand("\nhamid", "ahmadi", 44, 1443,"negahban\n")
 print(per4.f_name, per4.l_name, per4.ID, per4.age)
 per4.info()
 per4.taskk()
-print("--------------------------------------------------")
+print("-------------------------------------------------------")
 
 per5 = Moshtari("\nmosataaan", "haghiri", 84, 13,"negahban"," lebese shab")
 print(per5.f_name, per5.l_name, per5.ID, per5.age, per5.semat, per5.kharid)
 per5.info()
 per5.semat2()
 per5.kharid2()
-print("--------------------------------------------------")
+print("-------------------------------------------------------")
 
 per6 = Moshtari("\nyaser", "zarjooo", 41, 145,"operatoor"," shorte varzeshi")
 print(per6.f_name, per6.l_name, per6.ID, per6.age, per6.semat, per6.kharid)
 per6.info()
 per6.semat2()
 per6.kharid2()
-print("--------------------------------------------------")
+print("-------------------------------------------------------")
 
  
