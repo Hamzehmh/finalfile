@@ -11,7 +11,7 @@ print("-----------------TAVAN----------------------------------")
 x = 50
 y = 49
 
-#this is a simple question about Tavan-
+#this is a simple question about Tavan
 #  I DON'T know ;)
 # whats up?
 
