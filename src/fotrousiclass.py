@@ -23,7 +23,7 @@ class Manager(Person):
 
      def sematt(self):
        print("my semat in fotrousi company is :"+self.semat)
-#------------------------------------------------------------------
+#-------------------------------------------------------------------
 class Karmand(Person):
      def __init__(self, f_name, l_name, age, ID, task):
         super().__init__(f_name, l_name, age, ID)
@@ -33,7 +33,7 @@ class Karmand(Person):
      def taskk(self):
           print("my task in fotrousi company is :"+self.task)
 
-#-----------------------------------------------------------------
+#------------------------------------------------------------------
 class Moshtari(Manager):
      def __init__(self, f_name, l_name, age, ID, semat, kharid):
         super().__init__(f_name, l_name, age, ID,semat)
