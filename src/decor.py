@@ -26,8 +26,8 @@ def slow_down2(func):
     return wrapper_slow_down
 
 #--------------------------------------------------------------
-a = int(input('Enter Timer number: '))
-b = int(input('Enter DElay number: '))
+a = int(input('Enter Timer(sec) number: '))
+b = int(input('Enter DElay(sec) number: '))
 
 
 @slow_down2
