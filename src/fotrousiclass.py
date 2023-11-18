@@ -6,7 +6,7 @@ class Person:
              f_name -- _frist name _
              l_name -- _last namee_
              age -- _years old of persono
-             ID -- _ID number_
+             ID -- _ID numberr_
          """
          self.f_name = f_name
          self.l_name = l_name
