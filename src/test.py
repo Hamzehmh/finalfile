@@ -28,7 +28,7 @@ def test(a , b , c):
     """hello 
 
     Returns:
-        _hello from the other sideeeeeeooggglskdjfkjhf_
+        _hello from the other side
     """
 
 x = test(tas1 , tas2 , tas3)
