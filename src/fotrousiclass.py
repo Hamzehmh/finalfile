@@ -5,7 +5,7 @@ class Person:
          Arguments:
              f_name -- _frist name _
              l_name -- _last namee_
-             age -- _years old of persono
+             age -- _years old of personoo
              ID -- _ID numberr_
          """
          self.f_name = f_name
