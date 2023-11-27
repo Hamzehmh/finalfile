@@ -18,7 +18,7 @@ print("----------------END--------------------")
 
 
 
-#json.dump(my_info,fp=["datata.json"])rrr
+#json.dump(my_info,fp=["datata.json"])
 
 with open("data_file.json", "w") as f:
     json.dump(data, f)
