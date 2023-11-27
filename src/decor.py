@@ -12,7 +12,7 @@ def slow_down(func):
         return func(*args, **kwargs)
     return wrapper_slow_down
 
-#-----------------------------------------------------------------
+#-------------------------------------------------------------------
 
 def slow_down2(func):
     """_Sleep_

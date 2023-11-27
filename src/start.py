@@ -8,5 +8,4 @@ print(f'Sum of {a} and {b} is {sum(a, b)}')
 
 x= 255
 print(x)
-#eeeyyy00[]ghbvvv
-#baran mibarad aknon
+#baran mibarad aknonnnn
