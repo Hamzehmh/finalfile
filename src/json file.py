@@ -8,13 +8,13 @@ my_info = [
     "type": "positive",
     "tense": "Present Continuous"
   }]
-print("----------------DUMP-------------------")
+print("----------------DUMP---------------------")
 ali = json.dumps(my_info)
 print(ali)
-print("----------------LOAD-------------------")
+print("----------------LOAD---------------------")
 hasam = json.loads(ali)
 print("===>",hasam)
-print("----------------END--------------------")
+print("----------------END----------------------")
 
 
 
