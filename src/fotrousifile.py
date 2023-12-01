@@ -23,7 +23,7 @@ print("----------------------------------------------------------")
 per3 = Karmand("\nhasan", "kashani", 3923, 543,"khadamat\n")
 print(per3.f_name, per3.l_name, per3.ID, per3.age)
 per3.info()
-per3.taskk()-
+per3.taskk()
 print("---------------------------------------------------------")
 
 per4 = Karmand("\nhamid", "ahmadi", 44, 1443,"negahban\n")
