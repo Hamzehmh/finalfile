@@ -8,8 +8,9 @@ with open(file, "r") as f:
     #name_data = (data["size"])
 print(data)    
     
-#for i in name_data:
- #     print(i)
+for i in data:
+      print(i)
+      
   #    size = (i[size])
    #   color = (i[color])
     #  print(f'{size} is {color}')
