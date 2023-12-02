@@ -1,7 +1,7 @@
 import json
 
-print("----------------START------------------")
-my_info = [
+#print("----------------START------------------")
+#my_info = [
   {
     "fa": "Man dar hal e hazer inja kar mikonam",
     "en": "I'm working at the moment",
@@ -25,4 +25,18 @@ with open("data_file.json", "w") as f:
 
 
 
-   
+import json
+ 
+f = open('../src/data.json')
+ 
+# returns JSON object as 
+# a dictionary
+data = json.load(f)
+ 
+# Iterating through the json
+# list
+for i in data['emp_details']:
+    print(i)
+ 
+# Closing file
+f.close()
