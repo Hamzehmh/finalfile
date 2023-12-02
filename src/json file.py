@@ -1,11 +1,17 @@
 import json
+print("----------------start--------------------")
 
-file = "data.json"
+file = "src\data1.json"
 
-with open(file, "r") as json_file:
-    data = json.load(json_file)
-    name_data = (data["tense"])
-    for i in name_data:
-        en = (i[en])
-        age = (i[type])
-        print(f'(en) is (type)')
+with open(file, "r") as f:
+    data = json.load(f)
+    #name_data = (data["size"])
+print(data)    
+    
+#for i in name_data:
+ #     print(i)
+  #    size = (i[size])
+   #   color = (i[color])
+    #  print(f'{size} is {color}')
+
+print("----------------end--------------------")
