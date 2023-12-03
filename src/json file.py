@@ -11,6 +11,9 @@ print(data)
 for i in data:
       print(i)
       
+if i == ["size"]      
+    print("hello")
+      
   #    size = (i[size])
    #   color = (i[color])
     #  print(f'{size} is {color}')
