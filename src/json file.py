@@ -16,5 +16,6 @@ for i in data:
   #    size = (i[size])
    #   color = (i[color])
     #  print(f'{size} is {color}')
+    #dfg7
 
 print("----------------end--------------------")
