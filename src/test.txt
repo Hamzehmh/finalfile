@@ -7,7 +7,6 @@ sajad rezaei
 rostamyazdi
 ali azimi
 hossein iravani
-servan
 nosrat
 reza
 raha dadvar
@@ -22,6 +21,7 @@ peterson
     kheyli khafan
 ali nasirian    
 yasouj
+kish
 babolsar
 landan
 london
