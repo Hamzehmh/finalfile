@@ -17,6 +17,6 @@ for i in data:
   #    size = (i[size])
    #   color = (i[color])
     #  print(f'{size} is {color}')
-    #dfg7
+    #dfg709i7
 
 print("----------------end--------------------")
