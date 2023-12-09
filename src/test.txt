@@ -7,13 +7,13 @@ sajad rezaei
 rostamyazdi
 ali azimi
 hossein iravani
-servan
 nosrat
+divar
 reza
 raha dadvar
 reza aslaniiii
  hooore setayesg
-  
+  farbod pahlavan
       stop word
 Ajab rozeye
 peterson
@@ -22,6 +22,7 @@ peterson
     kheyli khafan
 ali nasirian    
 yasouj
+kish
 babolsar
 landan
 london
