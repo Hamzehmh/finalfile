@@ -9,7 +9,7 @@ with open(file, "r") as f:
 print(data)    
     
 for i in data:
-      print(i)
+      print(i[1])
       
 
       
