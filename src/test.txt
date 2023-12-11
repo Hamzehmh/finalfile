@@ -45,7 +45,7 @@ didar e ashna
 <<<<<<< HEAD
 lklklkl
 091585
-=======
+==============
 jamal dar nazar
 inam ye chizeye
 >>>>>>> f57545d1ef675
