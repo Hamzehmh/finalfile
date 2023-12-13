@@ -41,6 +41,8 @@ ghader
 didar e man
 rostamyazdi
 hajiakbari
+akhorbadin
+kamal
 sajad
 didar e ashna
 <<<<<<< HEAD
