@@ -1,5 +1,5 @@
 import json
-print("----------------start--------------------")
+print("----------------start---------------------")
 
 file = "src/data1.json"
 
@@ -19,4 +19,4 @@ for i in data:
     #  print(f'{size} is {color}')
     #dfg709i7hfhlklsdf55pop
 
-print("----------------end--------------------")
+print("----------------end---------------------")
