@@ -10,7 +10,7 @@ with open(file, "r") as f:
 print(data)    
     
 for i in data:
-      print(i[1:-1])
+      print(i)
       
 
       
