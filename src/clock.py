@@ -2,9 +2,9 @@ from tkinter import *
 from time import strftime
 
 root = Tk()
-root.geometry("500x500")
+root.geometry("500x200")
 root.resizable(0,0)
-root.title('Python Clock')
+root.title('Perfect Clock')
 
 Label(root,text = 'Perfect Clock', font ='arial 20 bold').pack(side=BOTTOM)
 
