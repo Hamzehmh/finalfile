@@ -1,0 +1,38 @@
+[
+  {
+    "fa": "man dar hale kar kardan hastam",
+    "en": "I'm working at the moment",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "man dar madrese mashghol be karam",
+    "en": "I'm working in a school",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "man yek ketab evaghei mikhonam",
+    "en": "I’m reading a really great book",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "man farda pedaram ra molaghat mikonam",
+    "en": "I’m meeting my father tomorrow",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "man saat 3 az inja miravam",
+    "en": "I’m leaving at three",
+    "type": "positive",
+    "tense": "Present Continuous"
+  },
+  {
+    "fa": "felan daram az kamputer ghadimi estefade mikonam",
+    "en": "I’m using my old computer for the time being",
+    "type": "positive",
+    "tense": "Present Continuous"
+  }
+]
