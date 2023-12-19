@@ -23,4 +23,4 @@ time()
 
 mainloop()
 
-#vhe jaleb
+#Che jaleb
