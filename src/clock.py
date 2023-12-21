@@ -22,5 +22,3 @@ mark.pack(anchor = 'center')
 time()
 
 mainloop()
-
-#Che jaleb
