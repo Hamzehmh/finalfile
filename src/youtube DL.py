@@ -1,41 +1,27 @@
-Here's a basic Python script for downloading videos from YouTube using the `youtube-dl` library. This script requires the `youtube-dl` package to be installed before running.
+from tkinter import *
+from pytube import YouTube
 
-First, you'll need to install `youtube-dl` using pip:
 
-```
-pip install youtube-dl
-```
+root = Tk()
+root.geometry('500x300')
+root.resizable(0,0)
+root.title("DataFlair-youtube video downloader")
 
-Then, create a new Python file (e.g., `youtube_downloader.py`) and add the following code:
 
-```python
-import os
-import sys
-import argparse
-from youtube_dl import YoutubeDL
+Label(root,text = 'Youtube Video Downloader', font ='arial 20 bold').pack()
 
-# Define command-line arguments for video URL and output directory
-parser = argparse.ArgumentParser(description='Download YouTube videos')
-parser.add_argument('url', help='URL of the YouTube video')
-parser.add_argument('-o', '--output_dir', help='Output directory for downloaded videos')
-args = parser.parse_args()
+link = StringVar()
 
-# Set default output directory to current working directory if not specified
-if args.output_dir is None:
-    args.output_dir = os.getcwd()
-    
-# Set up options for `youtube-dl` and download the video
-options = {
-    'format': 'best',  # Download video in highest available quality
-    'outtmpl': os.path.join(args.output_dir, '%(id)s-%(title)s%(ext)s'),  # Set naming convention for downloaded files (ID and title with extension)
-    'quiet': True,  # Disable progress bar and status messages during downloading process
-    'no_warnings': True,  # Disable warnings during downloading process (e.g., about age restrictions)
-}
-with YoutubeDL(options) as ydl:
-    ydl.download([args.url])  # Download the video using the URL provided by the user
-    
-# Print success message if download was successful, or error message if there was an issue with the URL or permissions to download the video
-if os.path.exists(os.path.join(args.output_dir, f"{os.path.basename(args.url)}")):  # Check if video was successfully downloaded to specified output directory
-    print("Video downloaded successfully!") else:  # If video could not be downloaded, print error message and exit script with error code 1 (indicating failure)
-        print("Error: Failed to download video.", file=sys.stderr) sys.exit(1) ``` 
-This script takes a single required argument, `url`, which is the URL of the YouTube video to be downloaded, and an optional argument, `output_dir`, which specifies the directory where the downloaded video should be saved (the default is the current working directory). The script uses the `argparse` library to parse command-line arguments and set up options for `youtube-dl`. It then sets up options for `youtube-dl`, such as the desired video format and naming convention for downloaded files, and uses a context manager to handle errors during the download process using a `with` statement around the `YoutubeDL` object creation and call to its `download()` method. After downloading the video, it checks whether it was successfully saved in the specified output directory and prints an appropriate success or error message accordingly. Note that this script assumes that you have already installed `youtube-dl` using pip, as described at the beginning of this answer. If you haven't done so yet, you'll need to install it before running this script by executing `pip install youtube-dl`.
+Label(root, text = 'Paste Link Here:', font = 'arial 15 bold').place(x= 160 , y = 60)
+link_enter = Entry(root, width = 70,textvariable = link).place(x = 32, y = 90)
+
+def Downloader():     
+    url =YouTube(str(link.get()))
+    video = url.streams.first()
+    video.download()
+    Label(root, text = 'DOWNLOADED', font = 'arial 15').place(x= 180 , y = 210)  
+
+Button(root,text = 'DOWNLOAD', font = 'arial 15 bold' ,bg = 'pale violet red', padx = 2, command = Downloader).place(x=180 ,y = 150)
+
+root.mainloop()
+
