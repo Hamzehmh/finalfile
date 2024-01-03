@@ -59,7 +59,7 @@ print(my_tuple)
 my_dic11 = {"a":1383 , "b": 20085}
 print(my_dic11["b"])
 
-my_list = ["kamal", "jamal", "mamal"]
+my_list = ["kamal", "jamal", "mamal", 2, 86]
 print(my_list)
 
 my_dic = {"a":4,"b":3, "c":9, "d":1}
