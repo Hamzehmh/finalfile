@@ -15,3 +15,6 @@ mydict = {"a":1, "b": 2, "c" : 3}
 
 print(mydict)
 print(mydict["b"])
+
+mydict["ddd"] = 4
+print(mydict)
